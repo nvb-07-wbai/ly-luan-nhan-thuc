@@ -48,8 +48,12 @@ body.idle{cursor:none}
 
 /* Chỉnh riêng: slide 2 còn nhiều khoảng trống, chữ mô tả inline 15px quá nhỏ khi chiếu */
 #slide-2 .dark-card{padding:40px 40px 44px}
-#slide-2 .dark-card p{font-size:21px!important;line-height:1.55!important}
-#slide-2 .dark-card>div:nth-child(1){font-size:34px!important}
-#slide-2 .dark-card>div:nth-child(2){font-size:25px!important;margin-bottom:12px!important}
 #slide-2 .slide-body{gap:26px!important}
 #slide-1 .slide-body,#slide-46 .slide-body{padding-bottom:30px}
+
+/* Mini-game: chữ đủ lớn cho cả lớp nhìn thấy */
+.game-question-box{font-size:30px;padding:28px 34px}
+.game-option-btn{font-size:25px;padding:26px 30px}
+.game-feedback-box{font-size:22px}
+.game-score-badge{font-size:22px}
+.btn-game-action{font-size:19px;padding:14px 32px}
