@@ -1,0 +1,55 @@
+/* DESIGN-V3: lớp nâng cấp nạp sau style.css. Chỉnh theo class dùng chung nên áp dụng cho cả 46 slide. */
+:root{--ease-morph:cubic-bezier(.65,0,.25,1);--t-morph:.85s}
+
+/* Header gọn hơn, chữ đủ lớn khi chiếu */
+.header-section-badge{font-size:16px;letter-spacing:3px;margin-bottom:2px}
+.slide-main-title{font-size:44px;letter-spacing:2px;line-height:1.15}
+.title-star-motif{margin:2px auto 8px}
+.title-star-motif::before,.title-star-motif::after{width:220px;height:1px}
+.slide-subtitle-pill{margin-bottom:18px;padding:7px 40px}
+.slide-subtitle-pill span{font-size:21px}
+.slide-body{height:calc(100% - 140px)}
+
+/* Thẻ nội dung: bớt "thẻ bo góc giống nhau" -> giấy in, vạch vàng đầu thẻ, bỏ blur */
+.ivory-card,.dark-card{border-radius:6px;backdrop-filter:none;border:1px solid rgba(212,175,55,.22);border-top:3px solid var(--color-gold)}
+.ivory-card{background:#FFFDF9;box-shadow:0 1px 0 rgba(255,255,255,.9) inset,0 14px 36px -14px rgba(44,34,28,.28)}
+.dark-card{background:rgba(26,19,17,.94);box-shadow:0 18px 44px -12px rgba(0,0,0,.55)}
+.takeaway-banner{border-radius:2px;font-size:19px;letter-spacing:.8px}
+.polaroid-frame,.slide-body img{transition:none}
+.slide-body img{border-radius:6px!important}
+
+/* Chuyển slide: View Transitions (Morph có kiểm soát) */
+html.vt .slide{transition:none}
+::view-transition-group(root){animation-duration:.7s;animation-timing-function:var(--ease-morph)}
+::view-transition-group(*){animation-duration:var(--t-morph);animation-timing-function:var(--ease-morph)}
+::view-transition-old(actor-pic),::view-transition-new(actor-pic){object-fit:cover;height:100%}
+::view-transition-group(actor-pic){z-index:3}
+::view-transition-group(actor-title){z-index:4}
+html[data-dir=back]::view-transition-group(actor-card){animation-duration:.7s}
+
+/* Hiện nội dung theo nhịp (bên trong chuyển cảnh) */
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.slide.active .bullet-item,.slide.active .takeaway-banner{animation:rise .6s var(--ease-morph) both}
+.slide.active .bullet-item:nth-child(1){animation-delay:.25s}.slide.active .bullet-item:nth-child(2){animation-delay:.36s}
+.slide.active .bullet-item:nth-child(3){animation-delay:.47s}.slide.active .bullet-item:nth-child(4){animation-delay:.58s}
+.slide.active .bullet-item:nth-child(n+5){animation-delay:.69s}.slide.active .takeaway-banner{animation-delay:.8s}
+
+/* Tiến độ + thanh điều khiển tự ẩn khi trình chiếu */
+#progress-bar-container{height:5px}
+#progress-bar{box-shadow:0 0 12px rgba(247,201,72,.7)}
+body.idle #control-bar{transform:translateY(100%)}
+body.idle{cursor:none}
+.ctrl-btn:focus-visible,.game-option-btn:focus-visible,.btn-game-action:focus-visible{outline:3px solid var(--color-gold-bright);outline-offset:3px}
+
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation:none!important;transition:none!important}
+  ::view-transition-group(*),::view-transition-old(*),::view-transition-new(*){animation:none!important}
+}
+
+/* Chỉnh riêng: slide 2 còn nhiều khoảng trống, chữ mô tả inline 15px quá nhỏ khi chiếu */
+#slide-2 .dark-card{padding:40px 40px 44px}
+#slide-2 .dark-card p{font-size:21px!important;line-height:1.55!important}
+#slide-2 .dark-card>div:nth-child(1){font-size:34px!important}
+#slide-2 .dark-card>div:nth-child(2){font-size:25px!important;margin-bottom:12px!important}
+#slide-2 .slide-body{gap:26px!important}
+#slide-1 .slide-body,#slide-46 .slide-body{padding-bottom:30px}

@@ -34,13 +34,47 @@ document.addEventListener('DOMContentLoaded', () => {
   window.addEventListener('resize', updateViewportScale);
   updateViewportScale();
 
+  // 2a. MORPH ENGINE (View Transitions API): các "actor" cùng tên giữa hai slide sẽ biến hình liên tục
+  const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+  const canMorph = () => typeof document.startViewTransition === 'function' && !reduceMotion.matches;
+  if (canMorph()) document.documentElement.classList.add('vt');
+  const ACTORS = {
+    badge: '.header-section-badge', title: '.slide-main-title', star: '.title-star-motif',
+    pill: '.slide-subtitle-pill', pic: '.slide-body img', card: '.slide-body .ivory-card, .slide-body .dark-card',
+    takeaway: '.takeaway-banner'
+  };
+  function tagActors(slide) {
+    Object.entries(ACTORS).forEach(([k, sel]) => {
+      const el = slide.querySelector(sel);
+      if (el) el.style.viewTransitionName = 'actor-' + k;
+    });
+  }
+  function untagActors(slide) {
+    slide.querySelectorAll('[style*="view-transition-name"]').forEach(el => el.style.viewTransitionName = '');
+  }
+  function swapDom(to) { // idempotent: luôn suy ra trạng thái từ DOM, an toàn khi bấm nhanh
+    document.querySelectorAll('.slide.active').forEach(s => { untagActors(s); s.classList.remove('active'); });
+    slides[to].classList.add('active');
+    tagActors(slides[to]);
+  }
+  let runningVT = null;
+  function transitionTo(to, from) {
+    if (!canMorph() || to === from) { swapDom(to); return; }
+    if (runningVT) runningVT.skipTransition();
+    document.documentElement.dataset.dir = to >= from ? 'fwd' : 'back';
+    const vt = document.startViewTransition(() => swapDom(to));
+    runningVT = vt;
+    vt.finished.finally(() => { if (runningVT === vt) runningVT = null; });
+  }
+
   // 2. SLIDE NAVIGATION CORE
   function goToSlide(index, playSfx = true) {
     if (index < 0 || index >= totalSlides) return;
 
-    slides[currentSlide].classList.remove('active');
+    const prev = currentSlide;
     currentSlide = index;
-    slides[currentSlide].classList.add('active');
+    transitionTo(index, prev);
+    try { history.replaceState(null, '', '#' + (index + 1)); } catch (_) {}
 
     // Update Counter & Progress Bar
     if (slideCounter) {
@@ -172,6 +206,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // 6. KEYBOARD EVENT LISTENERS
   document.addEventListener('keydown', (e) => {
+    if ((e.key === ' ' || e.key === 'Enter') && e.target.closest && e.target.closest('button')) return;
+    if (e.ctrlKey || e.metaKey || e.altKey) return;
     // If overview is open, Escape closes it
     if (overviewModal && overviewModal.classList.contains('open')) {
       if (e.key === 'Escape' || e.key === 'm' || e.key === 'M') {
@@ -182,7 +218,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     switch (e.key) {
       case 'ArrowRight':
-      case 'Space':
+      case ' ':
       case 'PageDown':
       case 'ArrowDown':
         e.preventDefault();
@@ -204,6 +240,10 @@ document.addEventListener('DOMContentLoaded', () => {
       case 'End':
         e.preventDefault();
         goToSlide(totalSlides - 1);
+        break;
+
+      case 'Escape':
+        notesPanel?.classList.remove('open');
         break;
 
       case 'f':
@@ -282,6 +322,15 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 
-  // INITIALIZE FIRST SLIDE
-  goToSlide(0, false);
+  // 9. THANH ĐIỀU KHIỂN TỰ ẨN + MỞ ĐÚNG SLIDE THEO #HASH
+  let idleTimer;
+  const wake = () => { document.body.classList.remove('idle'); clearTimeout(idleTimer); idleTimer = setTimeout(() => document.body.classList.add('idle'), 2500); };
+  ['mousemove', 'mousedown', 'touchstart', 'keydown'].forEach(ev => document.addEventListener(ev, wake, { passive: true }));
+  wake();
+  const fromHash = parseInt((location.hash || '').slice(1), 10);
+  const startIdx = fromHash >= 1 && fromHash <= totalSlides ? fromHash - 1 : 0;
+  slides.forEach(s => s.classList.remove('active'));
+  currentSlide = startIdx;
+  swapDom(startIdx);
+  goToSlide(startIdx, false);
 });
