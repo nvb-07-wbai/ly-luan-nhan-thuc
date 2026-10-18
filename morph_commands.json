@@ -1,0 +1,5406 @@
+[
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[1]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ BỘ GIÁO TRÌNH TRIẾT HỌC MÁC – LÊNIN • CHƯƠNG 2: CHỦ NGHĨA DUY VẬT BIỆN CHỨNG",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "center",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[1]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "LÝ LUẬN NHẬN THỨC",
+      "x": "3.0cm",
+      "y": "1.7cm",
+      "w": "27.87cm",
+      "h": "1.8cm",
+      "color": "8F1524",
+      "size": "34",
+      "bold": "true",
+      "align": "center",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[1]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Bản chất • Thực tiễn • Con đường biện chứng • Chân lý ★",
+      "x": "5.93cm",
+      "y": "3.7cm",
+      "w": "22.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[1]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "HỌC PHẦN: TRIẾT HỌC MÁC - LÊNIN (3 TÍN CHỈ)\n\n• Chương 2: Chủ nghĩa duy vật biện chứng\n• Phần III: Lý luận nhận thức (Trang 231 – 256)\n• Thời lượng trình bày: 45 – 50 phút (Bao gồm 2 Trò chơi tương tác)\n• Định hướng thiết kế: Revolutionary Red & Ivory × Historical Academic Presentation",
+      "x": "2.5cm",
+      "y": "4.8cm",
+      "w": "18.0cm",
+      "h": "11.4cm",
+      "color": "2C221C",
+      "size": "15",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[1]",
+    "type": "picture",
+    "props": {
+      "name": "!!actor-pic",
+      "src": "presentation/assets/images/cutouts/lenin_podium.jpg",
+      "x": "21.5cm",
+      "y": "4.8cm",
+      "width": "9.87cm",
+      "height": "11.4cm",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[1]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "\"TỪ TRỰC QUAN SINH ĐỘNG ĐẾN TƯ DUY TRỪU TƯỢNG, VÀ TỪ TƯ DUY TRỪU TƯỢNG ĐẾN THỰC TIỄN\" — V.I. LÊNIN",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[1]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 30 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nKính chào Thầy Cô và các bạn sinh viên. Hôm nay chúng ta cùng bước vào nghiên cứu Phần III, Chương 2 của Bộ Giáo trình Triết học Mác - Lênin: Lý luận nhận thức (Gnoseology/Epistemology). Đây là một trong những nội dung rực rỡ nhất của chủ nghĩa duy vật biện chứng, giải mã nguồn gốc, bản chất và con đường loài người chinh phục chân lý.\n\n✦ VÍ DỤ THỰC TIỄN:\nTừ việc người nguyên thủy tìm ra lửa qua lao động thực tiễn cho đến các nhà khoa học đương đại vận hành kính viễn vọng không gian James Webb hay phát triển Trí tuệ Nhân tạo - đó đều là hành trình biện chứng của nhận thức.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nNhận thức không phải là sự phản ánh thụ động như tấm gương soi, mà là một quá trình phản ánh tích cực, chủ động, sáng tạo thế giới khách quan vào bộ óc người trên cơ sở thực tiễn.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nTrước khi đi vào chi tiết, chúng ta cùng điểm qua cấu trúc tổng thể của bài thuyết trình hôm nay."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "680E1A",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[2]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ LỘ TRÌNH BÀI GIẢNG 45-50 PHÚT",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "FFE28A",
+      "size": "11",
+      "bold": "true",
+      "align": "center",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[2]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "NỘI DUNG CHƯƠNG TRÌNH",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "FAF5EB",
+      "size": "26",
+      "bold": "true",
+      "align": "center",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[2]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ 5 Trụ cột tri thức & 2 Hoạt động tương tác ★",
+      "x": "5.93cm",
+      "y": "3.1cm",
+      "w": "22.0cm",
+      "h": "0.85cm",
+      "color": "8F1524",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "FAF5EB",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[2]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "PHẦN 01 • Bản chất của nhận thức\n\nKhái niệm, các quan điểm trong lịch sử triết học và 3 nguyên tắc duy vật biện chứng của V.I. Lênin.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "5.6cm",
+      "color": "FAF5EB",
+      "size": "13",
+      "align": "left",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[2]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card2",
+      "text": "PHẦN 02 • Thực tiễn & Vai trò thực tiễn\n\nPhạm trù Practica, 3 đặc trưng, 3 hình thức cơ bản và 4 vai trò quyết định đối với nhận thức.",
+      "x": "12.3cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "5.6cm",
+      "color": "FAF5EB",
+      "size": "13",
+      "align": "left",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[2]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card3",
+      "text": "GIỮA GIỜ • Trò chơi 1: Thực tiễn hay Lý thuyết?\n\nThử thách 5 tình huống phân biệt hoạt động thực tiễn với tư duy trừu tượng thuần túy.",
+      "x": "22.1cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "5.6cm",
+      "color": "FAF5EB",
+      "size": "13",
+      "align": "left",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[2]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card4",
+      "text": "PHẦN 03 • Các giai đoạn nhận thức\n\nCon đường biện chứng: Nhận thức cảm tính ⇄ Nhận thức lý tính ⇄ Thực tiễn.",
+      "x": "2.5cm",
+      "y": "10.4cm",
+      "w": "9.2cm",
+      "h": "5.6cm",
+      "color": "FAF5EB",
+      "size": "13",
+      "align": "left",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[2]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card5",
+      "text": "PHẦN 04 & 05 • Chân lý & Kỷ nguyên AI\n\nTính khách quan, tương đối, tuyệt đối, cụ thể và vận dụng vào kỷ nguyên Trí tuệ nhân tạo.",
+      "x": "12.3cm",
+      "y": "10.4cm",
+      "w": "9.2cm",
+      "h": "5.6cm",
+      "color": "FAF5EB",
+      "size": "13",
+      "align": "left",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[2]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card6",
+      "text": "CUỐI GIỜ • Trò chơi 2 & Tổng kết sơ đồ\n\nGiải mã hành trình nhận thức, tổng kết Mindmap toàn diện và giải đáp câu hỏi ôn tập.",
+      "x": "22.1cm",
+      "y": "10.4cm",
+      "w": "9.2cm",
+      "h": "5.6cm",
+      "color": "FAF5EB",
+      "size": "13",
+      "align": "left",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[2]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 15 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nBài thuyết trình gồm 5 trụ cột nội dung chính và 2 hoạt động tương tác xen kẽ. Cấu trúc được thiết kế tuần tự theo đúng tiến trình biện chứng của nhận thức luận Mác - Lênin.\n\n✦ VÍ DỤ THỰC TIỄN:\nTa sẽ đi từ lịch sử các quan điểm triết học, bản chất nhận thức, sang vai trò của thực tiễn, phân tích 2 giai đoạn cảm tính và lý tính, định nghĩa chân lý và kết thúc bằng việc liên hệ chính hành trình học tập, nghiên cứu của sinh viên trong kỷ nguyên số.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nĐiểm nhấn là 2 trò chơi tương tác: Trò chơi 1 giữa giờ giúp phân biệt Thực tiễn vs Lý thuyết; Trò chơi 2 cuối giờ giúp giải mã các tình huống nhận thức biện chứng.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nBây giờ, xin mời các bạn cùng theo dõi chuẩn đầu ra và mục tiêu cốt lõi mà bài giảng hướng tới."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[3]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ MỤC TIÊU VÀ ĐỊNH HƯỚNG PHÁT TRIỂN NĂNG LỰC",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[3]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "CHUẨN ĐẦU RA BÀI HỌC",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[3]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Tri thức cốt lõi • Kỹ năng tư duy • Vận dụng thực tế ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[3]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "TRI THỨC CỐT LÕI\n\n• Hiểu sâu sắc bản chất nhận thức là sự phản ánh tích cực, chủ động, sáng tạo.\n• Nắm vững 3 đặc trưng, 3 hình thức và 4 vai trò của thực tiễn.\n• Nắm trọn vẹn quy luật vận động từ nhận thức cảm tính đến lý tính và quay về thực tiễn.\n• Nắm rõ 3 tính chất của chân lý: khách quan, tương đối & tuyệt đối, cụ thể.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[3]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card2",
+      "text": "KỸ NĂNG TƯ DUY\n\n• Xây dựng tư duy biện chứng: nhìn sự vật trong sự vận động, không phiến diện, máy móc.\n• Kết hợp nhuần nhuyễn phương pháp suy lý: Quy nạp và Diễn dịch trong học tập.\n• Phát triển năng lực tư duy phản biện (Critical Thinking) trước luồng thông tin đa chiều.",
+      "x": "12.3cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[3]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card3",
+      "text": "NĂNG LỰC VẬN DỤNG\n\n• Quán triệt nguyên tắc thực tiễn: lấy hành động, thí nghiệm, thực hành làm thước đo.\n• Sử dụng công nghệ và Trí tuệ nhân tạo (AI) có trách nhiệm, luôn kiểm chứng thực tế.\n• Chống hai khuynh hướng sai lầm: Bệnh giáo điều và Bệnh kinh nghiệm chủ nghĩa.",
+      "x": "22.1cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "2E7D32:1.5:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[3]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút\n\n✦ GIẢNG GIẢI NỘI DUNG:\nMột bài thuyết trình học thuật đại học cần nêu rõ mục tiêu đào tạo. Người học cần nắm chắc 3 khối: Tri thức khoa học, Phương pháp luận tư duy và Thái độ vận dụng thực tiễn.\n\n✦ VÍ DỤ THỰC TIỄN:\nKhông chỉ học vẹt định nghĩa, sinh viên phải biết áp dụng vào các đồ án lập trình, thí nghiệm khoa học và làm việc thực tế sau khi ra trường.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nKhắc phục triệt để bệnh giáo điều (chỉ nói lý thuyết suông) và bệnh kinh nghiệm chủ nghĩa (chỉ làm mò mẫm thiếu lý luận soi đường).\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nĐể kích hoạt tư duy, chúng ta hãy cùng đặt ra câu hỏi triết học cơ bản nhất đã thách thức nhân loại hàng nghìn năm qua."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[4]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ KHỞI ĐỘNG TƯ DUY KHOA HỌC",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[4]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "CÂU HỎI LỚN CỦA NHẬN THỨC LUẬN",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[4]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Con người có thể nhận thức được bản chất thế giới không? ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[4]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "NGHỊCH LÝ GIỮA \"HIỆN TƯỢNG BỀ NGOÀI\" VÀ \"BẢN CHẤT BÊN TRONG\"\n\n• Ảo ảnh của trực quan: Mắt thường thấy Mặt Trời chuyển động quanh Trái Đất, cái que cắm vào nước trông như bị gãy. Cảm giác có phản ánh hoàn toàn đúng sự thật?\n• Sự bất đồng nhận thức: Vì sao cùng chứng kiến một biến cố lịch sử hay hiện tượng xã hội, mỗi học phái, giai cấp lại có quan điểm và kết luận trái ngược nhau?\n• Tiêu chuẩn phân xử: Khi các lập luận lý thuyết đều tỏ ra chặt chẽ, cái gì là thước đo tối cao để phân định đúng - sai, chân lý hay ngụy biện?",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "17.8cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[4]",
+    "type": "picture",
+    "props": {
+      "name": "!!actor-pic",
+      "src": "presentation/assets/images/school_of_athens.jpg",
+      "x": "21.0cm",
+      "y": "4.3cm",
+      "width": "10.37cm",
+      "height": "12.0cm",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[4]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "\"NẾU HÌNH THỨC BIỂU HIỆN VÀ BẢN CHẤT CỦA SỰ VẬT LÀ HOÀN TOÀN NHẤT TRÍ VỚI NHAU, THÌ MỌI KHOA HỌC SẼ TRỞ NÊN THỪA.\" — C. MÁC",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[4]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 15 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nChúng ta khởi động bằng câu hỏi lớn của triết học: 'Con người có thể nhận thức được thế giới hay không?'. Trong bức họa nổi tiếng 'Trường Athena' của Raphael, Plato chỉ tay lên trời (ý niệm khách quan), còn Aristotle hướng lòng bàn tay xuống đất (hiện thực tự nhiên).\n\n✦ VÍ DỤ THỰC TIỄN:\nMắt ta thấy Mặt Trời mọc đằng Đông lặn đằng Tây, cảm giác cho rằng Trái Đất đứng yên. Nhưng khoa học chứng minh Trái Đất quay quanh Mặt Trời. Như vậy cảm giác bề ngoài chưa phải là bản chất!\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nSự thật khách quan đòi hỏi con người phải vượt qua cảm giác trực quan đơn thuần để đi sâu vào tư duy lý tính và kiểm nghiệm qua thực tiễn.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nVậy lý luận nhận thức nằm ở vị trí nào trong toàn bộ tòa lâu đài triết học Mác - Lênin? Chúng ta cùng sang slide tiếp theo."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[5]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ MỐI LIÊN HỆ HỆ THỐNG TRIẾT HỌC",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[5]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "VỊ TRÍ CỦA LÝ LUẬN NHẬN THỨC",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[5]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Giải quyết mặt thứ hai của vấn đề cơ bản của triết học ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[5]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "TÒA LÂU ĐÀI CHỦ NGHĨA DUY VẬT BIỆN CHỨNG\n\n1. Vật chất và Ý thức:\nKhẳng định thế giới vật chất tồn tại khách quan, ý thức là sự phản ánh sáng tạo thế giới vật chất.\n2. Phép biện chứng duy vật:\n2 nguyên lý (Mối liên hệ phổ biến, Sự phát triển), 3 quy luật cơ bản, 6 cặp phạm trù.\n3. Lý luận nhận thức duy vật biện chứng (Trọng tâm):\nVận dụng toàn bộ phép biện chứng vào quá trình nhận thức chân lý của con người.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "28.87cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[5]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "THỐNG NHẤT HỮU CƠ: PHÉP BIỆN CHỨNG = LÝ LUẬN NHẬN THỨC = LOGIC HỌC",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[5]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 15 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nChúng ta xác định tọa độ của Phần III trong toàn bộ môn học. Vấn đề cơ bản của triết học có 2 mặt: Mặt thứ nhất trả lời vật chất hay ý thức có trước; Mặt thứ hai trả lời con người có nhận thức được thế giới hay không. Lý luận nhận thức chính là lời giải quyết triệt để cho mặt thứ hai.\n\n✦ VÍ DỤ THỰC TIỄN:\nỞ phần trước, ta đã học 2 nguyên lý, 3 quy luật (Lượng - Chất, Mâu thuẫn, Phủ định của phủ định), 6 cặp phạm trù. Những quy luật đó không chỉ tồn tại ngoài tự nhiên mà chính là quy luật vận động của tư duy nhận thức.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nPhép biện chứng duy vật và Lý luận nhận thức duy vật biện chứng thống nhất hữu cơ với nhau.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nBây giờ, chúng ta chính thức bước vào Phần I: Lịch sử nhận thức luận và Quan điểm duy vật biện chứng."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[6]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ PHẦN I: BẢN CHẤT CỦA NHẬN THỨC",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[6]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "KHÁI NIỆM LÝ LUẬN NHẬN THỨC",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[6]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Từ nguyên Hy Lạp: \"Gnosis\" (Tri thức) + \"Logos\" (Học thuyết) ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[6]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "ĐỊNH NGHĨA KHOA HỌC TRONG GIÁO TRÌNH (TRANG 231)\n\n• Lý luận nhận thức (Gnoseology / Epistemology): Là học thuyết triết học nghiên cứu về bản chất của nhận thức, các hình thức, giai đoạn và quy luật vận động của quá trình con người phản ánh hiện thực khách quan.\n• Đối tượng nghiên cứu: Khả năng nhận thức của con người; mối quan hệ giữa tri thức với hiện thực khách quan; con đường đạt tới chân lý và tiêu chuẩn kiểm tra chân lý.\n• Khía cạnh bản thể luận & nhận thức luận: Khi triết học ra đời với tư cách là hệ thống tri thức lý luận, vấn đề nhận thức luận luôn là tâm điểm tranh luận giữa các trường phái.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "17.8cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[6]",
+    "type": "picture",
+    "props": {
+      "name": "!!actor-pic",
+      "src": "presentation/assets/images/aristotle.jpg",
+      "x": "21.0cm",
+      "y": "4.3cm",
+      "width": "10.37cm",
+      "height": "12.0cm",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[6]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "LÝ LUẬN NHẬN THỨC GIẢI QUYẾT TRIỆT ĐỂ MẶT THỨ HAI CỦA VẤN ĐỀ CƠ BẢN CỦA TRIẾT HỌC",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[6]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 15 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nChúng ta tìm hiểu nguồn gốc từ nguyên: Trong tiếng Hy Lạp cổ, 'Gnosis' có nghĩa là tri thức, 'Logos' có nghĩa là học thuyết, lời bàn giải. Ghép lại thành Gnoseology (Lý luận nhận thức) hay Epistemology.\n\n✦ VÍ DỤ THỰC TIỄN:\nĐây là nhánh triết học nghiên cứu bản chất của nhận thức, con người nhận thức bằng cách nào, nhận thức có giới hạn không, và tiêu chuẩn nào phân định đúng sai.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nGiáo trình trang 231 định nghĩa: Lý luận nhận thức là một bộ phận của triết học, nghiên cứu bản chất, con đường, quy luật của quá trình nhận thức hiện thực khách quan của con người.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nTrước khi Mác và Ăngghen ra đời, các trào lưu triết học cổ đại và cận đại đã nhìn nhận vấn đề này như thế nào?"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[7]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ LỊCH SỬ NHẬN THỨC LUẬN (TRANG 232 – 233)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[7]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "QUAN ĐIỂM CỦA CHỦ NGHĨA DUY TÂM",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[7]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Phủ nhận nguồn gốc hiện thực khách quan của nhận thức ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[7]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "DUY TÂM CHỦ QUAN\n\n• Khẳng định: Mọi sự vật hiện tượng chỉ là \"phức hợp của những cảm giác\" chủ quan của con người.\n• Luận điểm nổi tiếng: \"Tồn tại tức là được tri giác\" (Esse est percipi).\n• Hậu quả: Rơi vào thuyết duy ngã (Solipsism) — chỉ có bản thân cái 'tôi' và cảm giác của 'tôi' là tồn tại thực sự.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "17.8cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[7]",
+    "type": "picture",
+    "props": {
+      "name": "!!actor-pic",
+      "src": "presentation/assets/images/george_berkeley.jpg",
+      "x": "21.0cm",
+      "y": "4.3cm",
+      "width": "10.37cm",
+      "height": "12.0cm",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[7]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 20 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nChúng ta khảo sát quan điểm của chủ nghĩa duy tâm. Chủ nghĩa duy tâm chia thành 2 nhánh: Duy tâm chủ quan (Berkeley, Hume) và Duy tâm khách quan (Plato, Hegel).\n\n✦ VÍ DỤ THỰC TIỄN:\nGeorge Berkeley cho rằng: 'Sự vật là phức hợp của các cảm giác', 'Tồn tại tức là được tri giác' (Esse est percipi). Nếu không ai nhìn thấy quả táo thì quả táo không tồn tại! Điều này hoàn toàn phản khoa học. Trong khi đó, Plato xem nhận thức chỉ là linh hồn nhớ lại (hồi tưởng) thế giới ý niệm kiếp trước.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nĐiểm chung của chủ nghĩa duy tâm: Phủ nhận nguồn gốc vật chất khách quan của nhận thức, coi nhận thức bắt nguồn từ ý thức, tinh thần thuần túy.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nBên cạnh chủ nghĩa duy tâm, còn có những triết gia hoài nghi tuyệt đối về khả năng hiểu biết của con người. Đó là ai?"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[8]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ LỊCH SỬ NHẬN THỨC LUẬN (TRANG 233 – 234)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[8]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "HOÀI NGHI LUẬN VÀ BẤT KHẢ TRI LUẬN",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[8]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Nghi ngờ khả năng nhận thức & Luận điểm \"Vật tự nó\" của I. Kant ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[8]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "GIỚI HẠN NHẬN THỨC THEO QUAN ĐIỂM CỦA I. KANT (1724 – 1804)\n\n• Thuyết hoài nghi (Hume): Nghi ngờ độ xác thực của tri thức giác quan, cho rằng không có gì chứng minh thế giới bên ngoài tương ứng với cảm giác của ta.\n• Thuyết không thể biết (Agnosticism của Kant): Thừa nhận có thế giới khách quan bên ngoài tác động vào giác quan, nhưng con người chỉ nhận thức được 'Hiện tượng' bề ngoài .\n• Bản chất sự vật là \"Vật tự nó\" (Ding an sich): Nằm ngoài khả năng nắm bắt của trí tuệ con người, là bức tường vĩnh viễn không thể vượt qua.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "17.8cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[8]",
+    "type": "picture",
+    "props": {
+      "name": "!!actor-pic",
+      "src": "presentation/assets/images/immanuel_kant.jpg",
+      "x": "21.0cm",
+      "y": "4.3cm",
+      "width": "10.37cm",
+      "height": "12.0cm",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[8]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "ĂNGGHEN BÁC BỎ: \"NẾU CHÚNG TA CÓ THỂ CHỨNG MINH TÍNH CHÍNH XÁC CỦA SỰ HIỂU BIẾT... BẰNG CÁCH TỰ MÌNH LÀM RA SỰ VẬT ĐÓ THÌ 'VẬT TỰ NÓ' KHÔNG CÒN NỮA!\"",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[8]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 20 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nChúng ta phân tích hai trào lưu: Thuyết hoài nghi (Skepticism) và Thuyết không thể biết (Bất khả tri luận - Agnosticism). Tiêu biểu nhất cho Bất khả tri luận cận đại là đại triết gia người Đức Immanuel Kant.\n\n✦ VÍ DỤ THỰC TIỄN:\nKant chia thế giới thành 2 nửa: Một bên là 'Hiện tượng' (Phenomena) mà giác quan ta cảm nhận được, một bên là 'Vật tự nó' (Ding an sich) nằm kín đáo bên trong mà con người không bao giờ chạm tới được.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nPh. Ăngghen đã bác bỏ Kant một cách đanh thép: Sự bác bỏ sâu sắc nhất đối với những sự lập dị triết học này chính là THỰC TIỄN, thực nghiệm và công nghiệp.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nVậy các nhà duy vật trước Mác đã giải quyết vấn đề nhận thức như thế nào?"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[9]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ LỊCH SỬ NHẬN THỨC LUẬN (TRANG 234 – 235)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[9]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "CHỦ NGHĨA DUY VẬT TRƯỚC C. MÁC",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[9]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Khẳng định khả năng nhận thức nhưng mang tính trực quan, siêu hình ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[9]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "ƯU ĐIỂM VÀ HAI HẠN CHẾ CƠ BẢN (TRANG 234)\n\n• Mặt tích cực: Dũng cảm công nhận con người có khả năng nhận thức thế giới; xem nhận thức là sự phản ánh của hiện thực khách quan vào bộ óc con người.\n• Hạn chế 1 (Tính chất trực quan, máy móc): Coi phản ánh nhận thức chỉ như \"tấm gương soi\" hay \"miếng sáp in dấu\" , thụ động, một chiều, không thấy sự biến đổi phức tạp.\n• Hạn chế 2 (Tính chất siêu hình, phi lịch sử): Không hiểu được nhận thức là quá trình biện chứng vận động có mâu thuẫn; đặc biệt là hoàn toàn không thấy vai trò của hoạt động thực tiễn .",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "17.8cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[9]",
+    "type": "picture",
+    "props": {
+      "name": "!!actor-pic",
+      "src": "presentation/assets/images/ludwig_feuerbach.jpg",
+      "x": "21.0cm",
+      "y": "4.3cm",
+      "width": "10.37cm",
+      "height": "12.0cm",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[9]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "KHÔNG ĐƯA THỰC TIỄN VÀO LÝ LUẬN NHẬN THỨC CHÍNH LÀ NGUYÊN NHÂN KHIẾN DUY VẬT CŨ RƠI VÀO BẾ TẮC",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[9]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 20 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nChủ nghĩa duy vật trước Mác (từ Đê-mô-crít cổ đại đến Phoi-ơ-bắc thế kỷ XIX) có công lao rất lớn: kiên quyết khẳng định con người có thể nhận thức được thế giới khách quan.\n\n✦ VÍ DỤ THỰC TIỄN:\nTuy nhiên, họ ví nhận thức con người giống như một tấm gương phẳng hay miếng sáp mềm: ngoại giới chiếu vào thế nào thì in hệt như thế. Họ nhìn nhận nhận thức một cách thụ động, siêu hình, tĩnh tại.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nHạn chế cốt tử: Họ không nhìn thấy vai trò của THỰC TIỄN lịch sử - xã hội và tính năng động, sáng tạo của chủ thể nhận thức.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nSự bế tắc này chỉ được giải quyết khi C. Mác, Ph. Ăngghen và V.I. Lênin xây dựng nên lý luận nhận thức duy vật biện chứng."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "151210",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[10]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ BỘ GIÁO TRÌNH TRIẾT HỌC MÁC – LÊNIN (TRANG 235 – 236)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "D4AF37",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[10]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "BA NGUYÊN TẮC NHẬN THỨC DUY VẬT BIỆN CHỨNG",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "FAF5EB",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[10]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Cương lĩnh nhận thức luận của V.I. Lênin (Năm 1909) ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[10]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "NGUYÊN TẮC 1: THỪA NHẬN THẾ GIỚI KHÁCH QUAN TỒN TẠI ĐỘC LẬP VỚI Ý THỨC\n\nThừa nhận những sự vật, hiện tượng tồn tại khách quan bên ngoài và độc lập với ý thức, cảm giác của con người. Đó là nguồn gốc duy nhất của mọi nhận thức.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "17.8cm",
+      "h": "12.0cm",
+      "color": "FAF5EB",
+      "size": "14",
+      "align": "left",
+      "fill": "221C18",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[10]",
+    "type": "picture",
+    "props": {
+      "name": "!!actor-pic",
+      "src": "presentation/assets/images/vladimir_lenin.jpg",
+      "x": "21.0cm",
+      "y": "4.3cm",
+      "width": "10.37cm",
+      "height": "12.0cm",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[10]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 40 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nĐây là slide trọng tâm mang phong cách điện ảnh học thuật. Trong kiệt tác 'Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán' (1909), V.I. Lênin đã khái quát 3 nguyên tắc nền tảng xây dựng lý luận nhận thức duy vật biện chứng.\n\n✦ VÍ DỤ THỰC TIỄN:\nNguyên tắc 1 khẳng định bản thể luận vật chất. Nguyên tắc 2 khẳng định nhận thức luận phản ánh: cảm giác là hình ảnh chủ quan của thế giới khách quan. Nguyên tắc 3 đưa Thực tiễn làm tiêu chuẩn duy nhất của chân lý.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nBa nguyên tắc này là vũ khí sắc bén đập tan cả chủ nghĩa duy tâm lẫn thuyết bất khả tri, xác lập nền tảng khoa học vững chắc cho nhận thức luận Mác - Lênin.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nTrên cơ sở 3 nguyên tắc này, triết học Mác - Lênin định nghĩa bản chất của nhận thức như thế nào?"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[11]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ BẢN CHẤT NHẬN THỨC (TRANG 236 – 238)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[11]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "BẢN CHẤT CỦA NHẬN THỨC",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[11]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Sự phản ánh tích cực, chủ động, sáng tạo hiện thực khách quan ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[11]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "BỐN ĐẶC TRƯNG BẢN CHẤT THEO TRIẾT HỌC MÁC – LÊNIN\n\n• Thừa nhận khách thể khách quan: Thế giới vật chất tồn tại độc lập với ý thức con người và là nguồn gốc duy nhất của nhận thức.\n• Tính tích cực và chủ động: Nhận thức không phải là sự sao chép thụ động mà con người chủ động hướng tới đối tượng theo nhu cầu của mình.\n• Tính sáng tạo phi thường: Con người có khả năng trừu tượng hóa, mô hình hóa, tái tạo lại bản chất và dự báo tương lai của sự vật.\n• Dựa trên nền tảng thực tiễn: Nhận thức nảy sinh từ thực tiễn và lấy thực tiễn làm thước đo kiểm chứng cuối cùng.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "17.8cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[11]",
+    "type": "picture",
+    "props": {
+      "name": "!!actor-pic",
+      "src": "presentation/assets/images/karl_marx.jpg",
+      "x": "21.0cm",
+      "y": "4.3cm",
+      "width": "10.37cm",
+      "height": "12.0cm",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[11]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "NHẬN THỨC LÀ QUÁ TRÌNH BIỆN CHỨNG ĐI TỪ CHƯA BIẾT ĐẾN BIẾT, TỪ BIẾT NÔNG ĐẾN BIẾT SÂU, TỪ HIỆN TƯỢNG ĐẾN BẢN CHẤT",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[11]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 30 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nChúng ta đi vào định nghĩa bản chất nhận thức của chủ nghĩa duy vật biện chứng. Khác với gương soi thụ động, nhận thức của con người mang 4 đặc trưng: Tích cực, Chủ động, Sáng tạo và trên cơ sở Thực tiễn.\n\n✦ VÍ DỤ THỰC TIỄN:\nCon người không chỉ chụp lại cái cây, mà từ việc quan sát cây cối và nhu cầu che mưa nắng, con người sáng tạo ra nhà cửa, vật liệu xây dựng mới.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nNhận thức là quá trình tương tác biện chứng giữa Chủ thể (con người hiện thực có ý thức, công cụ, tri thức) và Khách thể (phần hiện thực khách quan bị chủ thể tác động) thông qua môi giới thực tiễn.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nTrong hoạt động nhận thức, con người phân chia nhận thức thành những cấp độ nào?"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[12]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ PHÂN LOẠI NHẬN THỨC (TRANG 238 – 239)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[12]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "CÁC HÌNH THỨC VÀ CẤP ĐỘ NHẬN THỨC",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[12]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Kinh nghiệm vs. Lý luận • Thông thường vs. Khoa học ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[12]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "THEO TÍNH CHẤT PHẢN ÁNH\n\nHình thành từ sự quan sát trực tiếp các sự vật hiện tượng trong đời sống hàng ngày hoặc thực nghiệm. Đem lại tri thức cụ thể, sinh động nhưng còn bề ngoài và rời rạc.\nNhận thức gián tiếp, khái quát về bản chất và quy luật của sự vật dưới dạng hệ thống các khái niệm, quy luật, phạm trù khoa học.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "14.0cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[12]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card2",
+      "text": "THEO MỨC ĐỘ TỰ GIÁC & TỔ CHỨC\n\nHình thành tự phát, trực tiếp qua hoạt động sống hàng ngày. Chi phối phần lớn hành vi ứng xử thường nhật của con người nhưng chưa thành hệ thống chặt chẽ.\nHình thành tự giác, có phương pháp luận, sử dụng công cụ thực nghiệm chuyên sâu để vạch ra các quy luật khách quan chi phối tự nhiên và xã hội.",
+      "x": "17.3cm",
+      "y": "4.3cm",
+      "w": "14.0cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[12]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 30 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nGiáo trình trang 238 – 239 phân chia nhận thức thành 2 cặp cấp độ: 1) Nhận thức kinh nghiệm vs. Nhận thức lý luận; 2) Nhận thức thông thường vs. Nhận thức khoa học.\n\n✦ VÍ DỤ THỰC TIỄN:\nQuan sát chuồn chuồn bay thấp thì mưa là nhận thức kinh nghiệm thông thường. Nhưng phân tích khí áp, độ ẩm, khối không khí nóng lạnh để dự báo bão là nhận thức lý luận khoa học.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nNhận thức kinh nghiệm là cơ sở ban đầu nhưng dễ phiến diện; Nhận thức lý luận có tính trừu tượng khái quát cao, đi sâu vào bản chất quy luật và định hướng cho kinh nghiệm.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nCả kinh nghiệm lẫn lý luận đều không thể tự hình thành trong chân không, mà đều bắt nguồn từ THỰC TIỄN. Vậy Thực tiễn là gì? Chúng ta bước sang Phần II."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[13]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ PHẦN II: THỰC TIỄN VÀ VAI TRÒ CỦA THỰC TIỄN",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[13]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "PHẠM TRÙ THỰC TIỄN (PRACTICA)",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[13]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Phát kiến mang tính cách mạng của C. Mác và Ph. Ăngghen ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[13]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "\"Thực tiễn là toàn bộ những hoạt động vật chất - cảm tính, có tính mục đích, mang tính lịch sử - xã hội của con người nhằm cải tạo tự nhiên và xã hội.\" — Bộ Giáo trình Triết học Mác – Lênin, Trang 241\n\n• Gốc từ ngữ: Xuất phát từ tiếng Hy Lạp cổ \"Practica\" (hoạt động tích cực, biến đổi hiện thực).\n• Hoạt động vật chất - cảm tính: Là hoạt động mà con người phải sử dụng sức mạnh thể xác, giác quan và công cụ vật chất để tác động vào đối tượng vật chất cụ thể.\n• Mục đích tối thượng: Không phải để chiêm nghiệm thế giới trong đầu mà nhằm cải tạo thế giới , phục vụ lợi ích sinh tồn và phát triển của con người.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "17.8cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[13]",
+    "type": "picture",
+    "props": {
+      "name": "!!actor-pic",
+      "src": "presentation/assets/images/cutouts/marx_engels_statue.jpg",
+      "x": "21.0cm",
+      "y": "4.3cm",
+      "width": "10.37cm",
+      "height": "12.0cm",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[13]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "THỰC TIỄN LÀ CẦU NỐI VẬT CHẤT TRỰC TIẾP GIỮA CON NGƯỜI VỚI THẾ GIỚI TỰ NHIÊN VÀ XÃ HỘI",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[13]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 20 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nChúng ta bước vào Phần II: Thực tiễn và vai trò của thực tiễn. Đây là phát kiến vĩ đại của C. Mác. Trong tiếng Hy Lạp cổ, 'Practica' có nghĩa là hoạt động tích cực, biến đổi.\n\n✦ VÍ DỤ THỰC TIỄN:\nMác viết trong Luận cương về Phoi-ơ-bắc: 'Khuyết điểm chủ yếu của toàn bộ chủ nghĩa duy vật trước kia là đối tượng, hiện thực chỉ được quan niệm dưới hình thức khách thể hay hình thức trực quan, chứ không được quan niệm là hoạt động cảm tính của con người, là thực tiễn'.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nĐịnh nghĩa Mác - Lênin (Trang 241): Thực tiễn là toàn bộ những hoạt động vật chất - cảm tính, có tính mục đích, mang tính lịch sử - xã hội của con người nhằm cải tạo tự nhiên và xã hội.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nĐịnh nghĩa này bao hàm 3 đặc trưng then chốt nào? Xin mời xem slide 14."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[14]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ BẢN CHẤT HOẠT ĐỘNG THỰC TIỄN (TRANG 241 – 242)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[14]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "BA ĐẶC TRƯNG CƠ BẢN CỦA THỰC TIỄN",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[14]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Phân biệt thực tiễn với tư duy trừu tượng và bản năng loài vật ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[14]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "HOẠT ĐỘNG VẬT CHẤT – CẢM TÍNH\n\nThực tiễn không phải là hoạt động tinh thần, tư tưởng. Con người sử dụng công cụ vật chất, giác quan và cơ bắp tác động vào đối tượng vật chất cụ thể bên ngoài để biến đổi chúng.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[14]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card2",
+      "text": "MANG TÍNH LỊCH SỬ – XÃ HỘI\n\nThực tiễn là hoạt động của con người trong các quan hệ xã hội , không phải hành vi sinh học cô lập kiểu Robinson trên đảo hoang. Trình độ thực tiễn bị quy định bởi từng giai đoạn lịch sử cụ thể.",
+      "x": "12.3cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[14]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card3",
+      "text": "CÓ TÍNH MỤC ĐÍCH TỰ GIÁC\n\nKhác hoàn toàn với hoạt động bản năng của loài vật (ong xây tổ, chim làm tổ), hoạt động thực tiễn của con người luôn có ý thức, có kế hoạch, hướng tới mục tiêu cải tạo thế giới để thỏa mãn nhu cầu.",
+      "x": "22.1cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "2E7D32:1.5:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[14]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 20 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nGiáo trình trang 241 – 242 phân tích 3 đặc trưng cơ bản giúp phân biệt thực tiễn với các hoạt động khác của con người và loài vật.\n\n✦ VÍ DỤ THỰC TIỄN:\nCon ong xây tổ sáp lục giác rất hoàn hảo, con nhện giăng tơ tinh xảo, nhưng đó chỉ là bản năng sinh học, không phải thực tiễn! Con người trước khi xây nhà đã có bản vẽ thiết kế trong đầu - đó là tính mục đích tự giác.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nBa đặc trưng: 1. Hoạt động vật chất cảm tính; 2. Mang tính lịch sử - xã hội; 3. Có tính mục đích tự giác cải tạo hiện thực.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nXét theo cấu trúc chiều dọc, hoạt động thực tiễn bao gồm những yếu tố cấu thành nào?"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[15]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ CẤU TRÚC HỆ THỐNG THỰC TIỄN (TRANG 242)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[15]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "CẤU TRÚC CỦA HOẠT ĐỘNG THỰC TIỄN",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[15]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Mục đích → Phương tiện (Công cụ) → Kết quả thực tiễn ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[15]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "BA MẮT XÍCH TRONG MỘT CHU TRÌNH THỰC TIỄN\n\n1\nMục đích:\nNảy sinh từ nhu cầu vật chất và tinh thần của con người. Mục đích định hướng toàn bộ hành động, là hình mẫu lý tưởng về sản phẩm tương lai.\n2\nPhương tiện (Công cụ):\nHệ thống công cụ lao động, máy móc, phương pháp kỹ thuật được chủ thể lựa chọn để tác động vào đối tượng hiện thực.\n3\nKết quả:\nSản phẩm vật chất hoặc sự biến đổi trong hiện thực. Kết quả này được đối chiếu với mục đích ban đầu để kiểm nghiệm và rút kinh nghiệm.\n\"CÁI PHÂN BIỆT CÁC THỜI ĐẠI KINH TẾ KHÔNG PHẢI LÀ Ở CHỖ CHÚNG SẢN XUẤT RA CÁI GÌ, MÀ LÀ Ở CHỖ CHÚNG SẢN XUẤT BẰNG CÁCH NÀO, VỚI NHỮNG TƯ LIỆU LAO ĐỘNG NÀO.\" — C. MÁC",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "28.87cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[15]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "\"CÁI PHÂN BIỆT CÁC THỜI ĐẠI KINH TẾ KHÔNG PHẢI LÀ Ở CHỖ CHÚNG SẢN XUẤT RA CÁI GÌ, MÀ LÀ Ở CHỖ CHÚNG SẢN XUẤT BẰNG CÁCH NÀO, VỚI NHỮNG TƯ LIỆU LAO ĐỘNG NÀO.\" — C. MÁC",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[15]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 15 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nGiáo trình trang 242 chỉ ra: Nếu cắt theo chiều dọc, hoạt động thực tiễn bao gồm 3 yếu tố liên hoàn: Mục đích -> Phương tiện (công cụ) -> Kết quả.\n\n✦ VÍ DỤ THỰC TIỄN:\nMục đích nảy sinh từ nhu cầu sinh tồn (cần lương thực). Phương tiện là cái cày, máy cày, hệ thống tưới tiêu. Kết quả là hạt lúa thu hoạch được để nuôi sống con người.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nPhương tiện (công cụ lao động) đóng vai trò quyết định hiệu quả của thực tiễn. Trình độ công cụ phản ánh trình độ chinh phục tự nhiên của con người.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nVậy trong xã hội, thực tiễn được biểu hiện dưới những hình thức cơ bản nào? Xin mời xem slide 16."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[16]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ BA HÌNH THỨC THỰC TIỄN (TRANG 243 – 244)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[16]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "BA HÌNH THỨC CƠ BẢN CỦA THỰC TIỄN",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[16]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Sản xuất vật chất • Chính trị – Xã hội • Thực nghiệm khoa học ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[16]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "SẢN XUẤT VẬT CHẤT\n[HÌNH THỨC SỚM NHẤT & CƠ BẢN NHẤT]\n\nCon người sử dụng tư liệu lao động tác động vào giới tự nhiên để tạo ra của cải vật chất duy trì sự sinh tồn của loài người. Là nền tảng cho mọi hoạt động khác.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[16]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card2",
+      "text": "HOẠT ĐỘNG CHÍNH TRỊ – XÃ HỘI\n[CẢI BIẾN CÁC QUAN HỆ XÃ HỘI]\n\nHoạt động của các giai cấp, đảng phái, cộng đồng nhằm biến đổi quan hệ chính trị, chế độ xã hội, giải phóng con người và thúc đẩy tiến bộ văn minh.",
+      "x": "12.3cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[16]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card3",
+      "text": "THỰC NGHIỆM KHOA HỌC\n[HÌNH THỨC THỰC TIỄN ĐẶC BIỆT]\n\nHoạt động được tiến hành trong môi trường nhân tạo, có sự kiểm soát nghiêm ngặt nhằm rút ngắn thời gian nghiên cứu và trực tiếp phục vụ sản xuất.",
+      "x": "22.1cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "2E7D32:1.5:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[16]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 30 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nGiáo trình trang 243 – 244 nêu rõ 3 hình thức cơ bản của thực tiễn: 1. Sản xuất vật chất (cơ bản nhất, sớm nhất); 2. Hoạt động chính trị - xã hội; 3. Thực nghiệm khoa học.\n\n✦ VÍ DỤ THỰC TIỄN:\nHình ảnh trên slide minh họa sinh động: Robot tự động hóa công nghiệp (sản xuất vật chất hiện đại); Đại hội đồng Liên Hợp Quốc (hoạt động chính trị - xã hội); Kính thiên văn James Webb (thực nghiệm khoa học khám phá vũ trụ).\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nSản xuất vật chất đóng vai trò quyết định nhất vì nó duy trì sự tồn tại của con người; Hoạt động chính trị - xã hội giải phóng lực lượng sản xuất; Thực nghiệm khoa học dẫn dắt công nghệ thế kỷ 21.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nBa hình thức này tác động qua lại với nhau như thế nào? Xin mời xem slide 17."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[17]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ QUAN HỆ BIỆN CHỨNG (TRANG 244)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[17]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "MỐI QUAN HỆ BIỆN CHỨNG GIỮA 3 HÌNH THỨC",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[17]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Sản xuất vật chất là nền tảng • Thực nghiệm khoa học là đòn bẩy ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[17]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "• Sản xuất vật chất giữ vai trò quyết định nhất: Là cơ sở nuôi sống con người, cung cấp cơ sở vật chất, kinh phí và trang thiết bị cho hoạt động chính trị và thực nghiệm khoa học.\n• Hoạt động chính trị – xã hội tạo môi trường thể chế: Khi thể chế tiến bộ, giải phóng quan hệ sản xuất sẽ mở đường cho sản xuất phát triển và khoa học nở rộ.\n• Thực nghiệm khoa học ngày càng giữ vai trò tiên phong: Trong cách mạng công nghiệp 4.0, 'tri thức trở thành lực lượng sản xuất trực tiếp', thực nghiệm khoa học đi trước mở đường cho sản xuất.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "17.8cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[17]",
+    "type": "picture",
+    "props": {
+      "name": "!!actor-pic",
+      "src": "presentation/assets/images/cutouts/workers_painting.jpg",
+      "x": "21.0cm",
+      "y": "4.3cm",
+      "width": "10.37cm",
+      "height": "12.0cm",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[17]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "KHÔNG COI THƯỜNG BẤT KỲ HÌNH THỨC NÀO, NHƯNG LUÔN KHẲNG ĐỊNH SẢN XUẤT VẬT CHẤT LÀ GỐC RỄ",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[17]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 15 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nBa hình thức thực tiễn có mối quan hệ biện chứng, tác động qua lại chặt chẽ với nhau (Trang 244).\n\n✦ VÍ DỤ THỰC TIỄN:\nSản xuất vật chất tạo ra nguồn lực tài chính, máy móc cho phòng thí nghiệm. Hoạt động chính trị - xã hội ban hành luật pháp, chính sách khuyến khích đổi mới sáng tạo. Ngược lại, thực nghiệm khoa học tạo ra giống lúa mới, chip bán dẫn nâng cao năng suất sản xuất vật chất gấp bội lần.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nSản xuất vật chất là nền tảng quyết định nhất; Thực nghiệm khoa học ngày nay đóng vai trò tiên phong, rút ngắn chu kỳ từ phòng thí nghiệm ra thị trường.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nBây giờ chúng ta đi vào nội dung then chốt: Thực tiễn đóng vai trò gì đối với quá trình nhận thức?"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[18]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ VAI TRÒ CỦA THỰC TIỄN (TRANG 244 – 245)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[18]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "THỰC TIỄN LÀ CƠ SỞ VÀ ĐỘNG LỰC CỦA NHẬN THỨC",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[18]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Điểm xuất phát, nguồn gốc và sức mạnh thúc đẩy nhận thức tiến bộ ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[18]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "• Cung cấp chất liệu và dữ liệu: Thông qua thực tiễn, con người tiếp xúc trực tiếp với thế giới, làm cho các thuộc tính, quy luật của sự vật bộc lộ để giác quan nắm bắt.\n• Đề ra nhu cầu, nhiệm vụ nghiên cứu: Mọi ngành khoa học (Toán, Lý, Y sinh, AI) đều ra đời từ mệnh lệnh giải quyết các bài toán hóc búa của thực tế.\n• Rèn luyện và hoàn thiện giác quan: Lao động thực tiễn làm cho các giác quan của con người trở nên tinh tường, nhạy bén hơn gấp nhiều lần.\n• Chế tạo công cụ mở rộng năng lực nhận thức: Kính hiển vi, kính thiên văn, siêu máy tính và mô hình AI đều là sản phẩm của thực tiễn nối dài giác quan con người.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "17.8cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[18]",
+    "type": "picture",
+    "props": {
+      "name": "!!actor-pic",
+      "src": "presentation/assets/images/compound_microscope.jpg",
+      "x": "21.0cm",
+      "y": "4.3cm",
+      "width": "10.37cm",
+      "height": "12.0cm",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[18]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "\"KHI XÃ HỘI CÓ MỘT NHU CẦU VỀ KỸ THUẬT THÌ NÓ THÚC ĐẨY KHOA HỌC TIẾN LÊN HƠN MƯỜI TRƯỜNG ĐẠI HỌC.\" — PH. ĂNGGHEN",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[18]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 20 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nGiáo trình trang 244 – 245 phân tích vai trò thứ nhất của thực tiễn: Thực tiễn là cơ sở, động lực của nhận thức.\n\n✦ VÍ DỤ THỰC TIỄN:\nNgười Ai Cập cổ đại phải đo đạc đất đai sau mỗi mùa nước lũ sông Nile dâng tràn, từ đó sinh ra môn Hình học. Xã hội cần động cơ kéo than trong hầm mỏ, từ đó phát minh ra Động cơ hơi nước của James Watt.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nPh. Ăngghen khẳng định: 'Khi xã hội có một nhu cầu về kỹ thuật thì nhu cầu ấy thúc đẩy khoa học tiến lên hơn mười trường đại học'.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nThực tiễn không chỉ thúc đẩy nhận thức nảy sinh, mà nhận thức sinh ra để làm gì? Chúng ta sang vai trò thứ hai: Thực tiễn là mục đích của nhận thức."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[19]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ VAI TRÒ CỦA THỰC TIỄN (TRANG 245 – 246)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[19]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "THỰC TIỄN LÀ MỤC ĐÍCH CỦA NHẬN THỨC",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[19]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Nhận thức để quay về soi đường, dẫn dắt cải tạo thế giới ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[19]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "• Không vị nghệ thuật, vị lý thuyết suông: Nhận thức của con người ngay từ đầu đã bị quy định bởi nhu cầu thực tiễn. Muốn sống, con người phải nhận thức để hành động.\n• Kim chỉ nam định hướng: Tri thức lý luận giúp con người vạch ra kế hoạch, dự báo khó khăn, tránh mò mẫm sai lầm và rút ngắn con đường đi tới đích.\n• Tiêu chí đánh giá giá trị: Một công trình khoa học dù đồ sộ đến đâu nếu không đem lại lợi ích cải tạo hiện thực xã hội thì giá trị sẽ bị hạn chế.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "28.87cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[19]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "LÝ LUẬN MÀ KHÔNG LIÊN HỆ VỚI THỰC TIỄN LÀ LÝ LUẬN SUÔNG; THỰC TIỄN KHÔNG CÓ LÝ LUẬN SOI ĐƯỜNG LÀ THỰC TIỄN MÙ QUÁNG",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[19]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 15 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nGiáo trình trang 245 – 246 khẳng định vai trò thứ hai: Thực tiễn là mục đích của nhận thức. Con người tìm kiếm tri thức không phải để 'chiêm nghiệm suông' hay cất vào ngăn kéo tủ sách.\n\n✦ VÍ DỤ THỰC TIỄN:\nMác đã tuyên bố trong Luận cương thứ 11 về Phoi-ơ-bắc: 'Các nhà triết học chỉ giải thích thế giới bằng nhiều cách khác nhau, song vấn đề là cải tạo thế giới'.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nMọi lý thuyết khoa học chỉ thực sự có giá trị khi nó được quay trở về phục vụ, định hướng, chỉ đạo hoạt động thực tiễn biến đổi đời sống con người.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nNhưng làm thế nào để biết một lý thuyết là đúng hay sai? Cái gì là thước đo phân xử? Xin mời xem slide 20: Thực tiễn là tiêu chuẩn của chân lý."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "151210",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[20]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ BỘ GIÁO TRÌNH TRIẾT HỌC MÁC – LÊNIN (TRANG 246 – 247)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "D4AF37",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[20]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "THỰC TIỄN LÀ TIÊU CHUẨN DUY NHẤT CỦA CHÂN LÝ",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "FAF5EB",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[20]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Tính Tuyệt đối và Tính Tương đối của Tiêu chuẩn Thực tiễn ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[20]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "\"Quan điểm về đời sống, về thực tiễn, phải là quan điểm thứ nhất và cơ bản của lý luận về nhận thức... và nó không cho phép ta biến tri thức của con người thành một cái gì 'tuyệt đối', tĩnh tại.\" — V.I. Lênin, Toàn tập, Tập 18, Trang 167\n\nChỉ có thực tiễn mới có tính phổ biến và mang tính hiện thực trực tiếp , làm chiếc cầu nối kiểm chứng tư tưởng chủ quan có phù hợp với khách thể khách quan hay không.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "12.0cm",
+      "color": "FAF5EB",
+      "size": "13",
+      "align": "left",
+      "fill": "221C18",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[20]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card2",
+      "text": "✦ TÍNH TUYỆT ĐỐI CỦA TIÊU CHUẨN THỰC TIỄN\n\nThực tiễn là tiêu chuẩn khách quan duy nhất trong mọi thời đại để kiểm tra chân lý. Trong mỗi giai đoạn lịch sử xác định, thực tiễn có khả năng xác nhận tính đúng đắn của những tri thức đã đạt được.",
+      "x": "12.3cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "12.0cm",
+      "color": "FAF5EB",
+      "size": "13",
+      "align": "left",
+      "fill": "221C18",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[20]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card3",
+      "text": "✦ TÍNH TƯƠNG ĐỐI CỦA TIÊU CHUẨN THỰC TIỄN\n\nThực tiễn không đứng yên một chỗ mà luôn vận động, phát triển. Thực tiễn của ngày hôm nay chưa thể xác minh hay bác bỏ mọi vấn đề của tương lai. Nhận thức tiếp tục được bổ sung và hoàn thiện theo sự tiến triển của thực tiễn.",
+      "x": "22.1cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "12.0cm",
+      "color": "FAF5EB",
+      "size": "13",
+      "align": "left",
+      "fill": "221C18",
+      "line": "2E7D32:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[20]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "KHÔNG CÓ TIÊU CHUẨN NÀO NGOÀI THỰC TIỄN ĐỂ ĐO LƯỜNG CHÂN LÝ",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "2B1810",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[20]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 35 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nĐây là luận điểm rực rỡ nhất trong nhận thức luận Mác - Lênin (Trang 246 – 247). Làm sao biết một tư tưởng là đúng? Không thể dựa vào số đông biểu quyết, không thể dựa vào quyền lực của giáo hội hay vua chúa, càng không thể dựa vào sự dễ nghe, êm tai. THỰC TIỄN LÀ TIÊU CHUẨN KHÁCH QUAN DUY NHẤT.\n\n✦ VÍ DỤ THỰC TIỄN:\nV.I. Lênin phân tích: Tiêu chuẩn thực tiễn có tính Tuyệt đối và tính Tương đối. Tính tuyệt đối ở chỗ: Thực tiễn là tiêu chuẩn duy nhất trong mọi thời đại. Tính tương đối ở chỗ: Thực tiễn luôn vận động biến đổi, không thể khẳng định hay bác bỏ hoàn toàn một nhận thức một lần cho mãi mãi.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nSự kết hợp giữa tính tuyệt đối và tính tương đối của tiêu chuẩn thực tiễn giúp chúng ta tránh cả 2 thái cực: Chủ nghĩa giáo điều (bảo thủ) và Chủ nghĩa tương đối (hoài nghi xét lại).\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nTừ vai trò to lớn của thực tiễn, triết học Mác rút ra nguyên tắc phương pháp luận nào? Xin mời xem slide 21."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[21]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ Ý NGHĨA PHƯƠNG PHÁP LUẬN (TRANG 247)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[21]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "QUAN ĐIỂM THỰC TIỄN VÀ BÀI HỌC VẬN DỤNG",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[21]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Nguyên tắc phương pháp luận tối cao của triết học Mác – Lênin ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[21]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "BA NGUYÊN TẮC HÀNH ĐỘNG CỦA QUAN ĐIỂM THỰC TIỄN\n\n• Xuất phát từ thực tiễn: Nhận thức sự vật phải bám sát nhu cầu và điều kiện hiện thực, không được xuất phát từ ý muốn chủ quan hay giáo điều sách vở.\n• Lấy thực tiễn làm thước đo: Coi kết quả hoạt động thực tiễn là tiêu chuẩn cao nhất để kiểm nghiệm sự đúng đắn của chủ trương, chính sách và lý thuyết.\n• Tăng cường tổng kết thực tiễn: Không ngừng đúc kết kinh nghiệm từ thực tiễn cuộc sống để bổ sung, sửa đổi và phát triển lý luận ngày càng hoàn thiện.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "28.87cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[21]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "ĐẢNG TA KHẲNG ĐỊNH: \"ĐỔI MỚI PHẢI XUẤT PHÁT TỪ THỰC TIỄN, TÔN TRỌNG VÀ HÀNH ĐỘNG THEO QUY LUẬT KHÁCH QUAN\"",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[21]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 20 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nTừ vai trò của thực tiễn, triết học Mác – Lênin rút ra nguyên tắc phương pháp luận tối cao: QUAN ĐIỂM THỰC TIỄN (Trang 247).\n\n✦ VÍ DỤ THỰC TIỄN:\nCông cuộc Đổi mới ở Việt Nam năm 1986 bắt đầu từ việc Đảng ta dũng cảm 'Nhìn thẳng vào sự thật, đánh giá đúng sự thật', tổng kết từ thực tiễn khoán hộ ở Vĩnh Phúc, Hải Phòng để xóa bỏ cơ chế bao cấp trì trệ.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nQuan điểm thực tiễn đòi hỏi: 1) Nhận thức phải xuất phát từ thực tiễn; 2) Thường xuyên tổng kết thực tiễn để bổ sung lý luận; 3) Kiên quyết chống hai căn bệnh: Bệnh giáo điều và Bệnh kinh nghiệm chủ nghĩa.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nĐể củng cố Phần I và Phần II, ngay bây giờ chúng ta cùng bước vào trò chơi tương tác giữa giờ!"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "680E1A",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[22]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ HOẠT ĐỘNG TƯƠNG TÁC GIỮA GIỜ (THỜI LƯỢNG: 3-4 PHÚT)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "FFE28A",
+      "size": "11",
+      "bold": "true",
+      "align": "center",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[22]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "TRÒ CHƠI: \"THỰC TIỄN HAY CHỈ LÀ LÝ THUYẾT?\"",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "FAF5EB",
+      "size": "26",
+      "bold": "true",
+      "align": "center",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[22]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Thử thách 5 tình huống phân biệt hoạt động thực tiễn ★",
+      "x": "5.93cm",
+      "y": "3.1cm",
+      "w": "22.0cm",
+      "h": "0.85cm",
+      "color": "8F1524",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "FAF5EB",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[22]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "🏆 QUY TẮC & THỬ THÁCH TRANH TÀI:\n\nMàn hình sẽ hiển thị 5 tình huống cụ thể trong đời sống và nghiên cứu. Nhiệm vụ của các bạn là xác định xem hoạt động đó thuộc về:\nMỗi câu trả lời đúng được cộng 20 điểm . Hệ thống sẽ giải thích cặn kẽ dựa trên giáo trình.\n\n• Điểm số: 20 điểm / câu trả lời đúng (Tối đa: 100 điểm).\n• Mục tiêu: Khắc sâu bản chất triết học và tôi luyện tư duy phản biện.",
+      "x": "4.0cm",
+      "y": "4.5cm",
+      "w": "25.87cm",
+      "h": "11.5cm",
+      "color": "FAF5EB",
+      "size": "15",
+      "align": "left",
+      "fill": "7A0F1D",
+      "line": "D4AF37:2:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[22]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút\n\n✦ GIẢNG GIẢI NỘI DUNG:\nChúng ta tạm dừng 3-4 phút để tham gia trò chơi tương tác giữa giờ. Tên trò chơi: 'Thực tiễn hay chỉ là lý thuyết?'. Trò chơi gồm 5 tình huống thực tế đời sống.\n\n✦ VÍ DỤ THỰC TIỄN:\nMỗi tình huống sẽ yêu cầu các bạn phân định: Đây là hoạt động Thực tiễn (Sản xuất vật chất, Chính trị - xã hội, Thực nghiệm khoa học) hay chỉ là hoạt động Nhận thức / Tinh thần thuần túy.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nMục đích: Giúp cả lớp khắc sâu định nghĩa thực tiễn là hoạt động vật chất cảm tính cải tạo hiện thực, không nhầm lẫn với hoạt động tư duy trong đầu.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nXin mời các bạn cùng hướng lên màn hình để bắt đầu câu hỏi đầu tiên!"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[23]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ MINI-GAME 1 • THỬ THÁCH NHẬN THỨC",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[23]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "THỰC TIỄN HAY CHỈ LÀ LÝ THUYẾT?",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[23]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "",
+      "x": "36cm",
+      "y": "3.1cm",
+      "w": "1cm",
+      "h": "0.85cm",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[23]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "TÌNH HUỐNG 1:\n• Người nông dân cày ruộng, gieo cấy lúa giống mới trên cánh đồng vụ đông xuân.\n➔ PHÂN LOẠI: Hoạt động Thực tiễn (Sản xuất vật chất - Hình thức cơ bản nhất).\n\nTÌNH HUỐNG 2:\n• Nhà vật lý lý thuyết ngồi phòng làm việc, thiết lập phương trình hố đen trên giấy nháp.\n➔ PHÂN LOẠI: Hoạt động Nhận thức lý tính (Tư duy trừu tượng, chưa tác động vật chất).\n\nTÌNH HUỐNG 3:\n• Đại biểu Quốc hội thảo luận, bấm nút thông qua Luật Đất đai sửa đổi tại nghị trường.\n➔ PHÂN LOẠI: Hoạt động Thực tiễn (Chính trị - xã hội, cải biến quan hệ xã hội).",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "14.0cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[23]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card2",
+      "text": "TÌNH HUỐNG 4:\n• Nhóm y sinh nuôi cấy kháng thể trong phòng lab và thử nghiệm lâm sàng trên mô tế bào.\n➔ PHÂN LOẠI: Hoạt động Thực tiễn (Thực nghiệm khoa học có kiểm soát).\n\nTÌNH HUỐNG 5:\n• Sinh viên ngủ mơ thấy mình được điểm 10 Triết học và tin đề thi trúng câu mình thích.\n➔ PHÂN LOẠI: Hiện tượng Tâm lý / Ảo tưởng chủ quan (Không phải thực tiễn).\n\n✦ ĐÚC KẾT: Hoạt động thực tiễn BẮT BUỘC phải dùng công cụ vật chất tác động cải tạo khách thể!",
+      "x": "17.3cm",
+      "y": "4.3cm",
+      "w": "14.0cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[23]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 3 phút\n\n✦ GIẢNG GIẢI NỘI DUNG:\nGiảng viên bấm chọn các phương án theo phản hồi của lớp, cùng thảo luận vì sao đúng và giải thích triết học sâu sắc.\n\n✦ VÍ DỤ THỰC TIỄN:\nTình huống 1 là nông dân cày ruộng gieo lúa (Sản xuất vật chất); Tình huống 2 là vật lý lập phương trình trên giấy (Tư duy trừu tượng); Tình huống 3 là Quốc hội bấm nút luật (Chính trị - xã hội); Tình huống 4 là nuôi cấy vắc-xin (Thực nghiệm); Tình huống 5 là nằm mơ (Tâm lý ảo tưởng).\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nKhắc sâu đặc trưng vật chất cảm tính của thực tiễn.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nSau khi hoàn thành xuất sắc trò chơi 1, chúng ta cùng tiến sang Phần III: Con đường biện chứng của quá trình nhận thức."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "151210",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[24]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ PHẦN III: CÁC GIAI ĐOẠN CỦA QUÁ TRÌNH NHẬN THỨC (TRANG 248)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "D4AF37",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[24]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "CON ĐƯỜNG BIỆN CHỨNG CỦA SỰ NHẬN THỨC",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "FAF5EB",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[24]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Luận điểm bất hủ của V.I. Lênin trong \"Bút ký triết học\" ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[24]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "\"Từ trực quan sinh động đến tư duy trừu tượng, và từ tư duy trừu tượng đến thực tiễn — đó là con đường biện chứng của sự nhận thức chân lý, của sự nhận thức thực tại khách quan.\" — V.I. Lênin, Toàn tập, Tập 29, Trang 179 • GIAI ĐOẠN 1: TRỰC QUAN SINH ĐỘNG • GIAI ĐOẠN 2: TƯ DUY TRỪU TƯỢNG • KIỂM NGHIỆM: THỰC TIỄN\n\n\"Từ trực quan sinh động đến tư duy trừu tượng, và từ tư duy trừu tượng đến thực tiễn — đó là con đường biện chứng của sự nhận thức chân lý, của sự nhận thức thực tại khách quan.\"\n— V.I. Lênin, Toàn tập, Tập 29, Trang 179\nGIAI ĐOẠN 1: TRỰC QUAN SINH ĐỘNG\n➔\nGIAI ĐOẠN 2: TƯ DUY TRỪU TƯỢNG\n➔\nKIỂM NGHIỆM: THỰC TIỄN",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "28.87cm",
+      "h": "12.0cm",
+      "color": "FAF5EB",
+      "size": "14",
+      "align": "left",
+      "fill": "221C18",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[24]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 30 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nChúng ta bước vào Phần III: Các giai đoạn của quá trình nhận thức. Đây là luận điểm kinh điển nổi tiếng nhất của V.I. Lênin trong tác phẩm 'Bút ký triết học' (Giáo trình trang 248).\n\n✦ VÍ DỤ THỰC TIỄN:\nToàn bộ con đường nhận thức chân lý diễn ra qua 2 giai đoạn lớn nối tiếp nhau: Nhận thức cảm tính (trực quan sinh động) và Nhận thức lý tính (tư duy trừu tượng), rồi quay trở về kiểm nghiệm và phục vụ Thực tiễn.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\n'Từ trực quan sinh động đến tư duy trừu tượng, và từ tư duy trừu tượng đến thực tiễn - đó là con đường biện chứng của sự nhận thức chân lý, của sự nhận thức thực tại khách quan'.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nChúng ta cùng đi sâu tìm hiểu giai đoạn đầu tiên: Nhận thức cảm tính."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[25]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ PHẦN III: CÁC GIAI ĐOẠN NHẬN THỨC (TRANG 248)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[25]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "GIAI ĐOẠN NHẬN THỨC CẢM TÍNH",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[25]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Trực quan sinh động • Phản ánh trực tiếp hiện tượng bên ngoài ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[25]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "BẢN CHẤT VÀ ĐẶC ĐIỂM CỦA TRỰC QUAN SINH ĐỘNG\n\n• Điểm khởi đầu của nhận thức: Con người không thể có tri thức nếu không thông qua cửa ngõ của các giác quan tiếp xúc với thế giới khách quan.\n• Tính trực tiếp: Cảm giác chỉ nảy sinh khi sự vật hiện tượng trực tiếp tác động vào mắt, tai, mũi, lưỡi, da... của chủ thể.\n• Tính cụ thể, sinh động: Đem lại cho con người những hình ảnh vô cùng phong phú, màu sắc, âm thanh, hình khối chân thực của thế giới.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "28.87cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[25]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "KHÔNG CÓ NHẬN THỨC CẢM TÍNH THÌ KHÔNG THỂ CÓ BẤT KỲ Ý THỨC VÀ NHẬN THỨC LÝ TÍNH NÀO",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[25]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 15 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nGiáo trình trang 248 – 249 định nghĩa: Nhận thức cảm tính là giai đoạn đầu tiên của quá trình nhận thức. Ở giai đoạn này, các giác quan của con người tiếp xúc trực tiếp với các sự vật, hiện tượng.\n\n✦ VÍ DỤ THỰC TIỄN:\nKhi ta tiếp xúc với quả cam: Mắt thấy màu vàng cam, mũi ngửi mùi thơm tinh dầu, tay sờ thấy vỏ ráp, lưỡi nếm vị chua ngọt. Đó là nhận thức cảm tính.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nHai đặc điểm lớn: 1) Phản ánh trực tiếp bằng các giác quan; 2) Phản ánh những biểu hiện bề ngoài, trạng thái cụ thể của sự vật trong hiện thực.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nNhận thức cảm tính được cấu thành từ 3 nấc thang nào? Xin mời xem slide 26."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[26]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ BA NẤC THANG CẢM TÍNH (TRANG 248 – 249)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[26]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "CẢM GIÁC • TRI GIÁC • BIỂU TƯỢNG",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[26]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Ba hình thức từ đơn giản đến phức tạp của Trực quan sinh động ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[26]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "CẢM GIÁC (SENSATION)\n[HÌNH THỨC BAN ĐẦU ĐƠN GIẢN NHẤT]\n\nNảy sinh do sự tác động trực tiếp của sự vật vào từng giác quan riêng lẻ, phản ánh từng thuộc tính riêng lẻ bề ngoài của sự vật (nhiệt độ, màu sắc, âm thanh).",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[26]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card2",
+      "text": "TRI GIÁC (PERCEPTION)\n[HÌNH ẢNH TRỌN VẸN BỀ NGOÀI]\n\nLà sự tổng hợp của nhiều cảm giác, đem lại một hình ảnh hoàn chỉnh, trọn vẹn về sự vật trong bộ óc khi sự vật đang trực tiếp tác động vào các giác quan.",
+      "x": "12.3cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[26]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card3",
+      "text": "BIỂU TƯỢNG (REPRESENTATION)\n[CẦU NỐI SANG LÝ TÍNH]\n\nHình ảnh cảm tính được lưu giữ và tái hiện trong trí nhớ khi sự vật không còn trực tiếp hiện diện trước mắt. Bắt đầu có sự chọn lọc và khái quát hóa sơ khởi.",
+      "x": "22.1cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "2E7D32:1.5:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[26]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 30 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nGiáo trình trang 248 – 249 phân tích 3 hình thức theo thứ tự tiến hóa: 1. Cảm giác (đơn giản nhất, phản ánh từng thuộc tính riêng lẻ); 2. Tri giác (tổng hợp các cảm giác thành hình ảnh trọn vẹn bề ngoài); 3. Biểu tượng (hình ảnh được lưu giữ và tái hiện trong óc khi sự vật không còn trước mắt).\n\n✦ VÍ DỤ THỰC TIỄN:\nVí dụ nhìn bông hoa hồng: Thấy màu đỏ là cảm giác thị giác. Tổng hợp màu đỏ + hương thơm + cành gai thành 'bông hoa hồng' trước mắt là tri giác. Nhắm mắt lại hay đi về nhà vẫn hình dung ra bông hoa hồng ấy là biểu tượng.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nBiểu tượng là hình thức cao nhất của nhận thức cảm tính, là chiếc cầu nối trung gian đưa nhận thức bước sang giai đoạn tư duy trừu tượng.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nTuy rất phong phú, nhưng nhận thức cảm tính có giới hạn gì? Xin mời xem slide 27."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[27]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ GIỚI HẠN NHẬN THỨC (TRANG 249)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[27]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "GIỚI HẠN CỦA NHẬN THỨC CẢM TÍNH",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[27]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Chưa vạch ra được bản chất, quy luật tất yếu bên trong ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[27]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "• Chỉ dừng lại ở bề ngoài: Cảm tính chỉ phản ánh được các thuộc tính hiện tượng, đơn nhất, bề ngoài ngẫu nhiên; chưa phân biệt được đâu là cái bản chất và không bản chất.\n• Dễ bị ảo giác đánh lừa: Hiện tượng khúc xạ ánh sáng làm chiếc đũa trông như bị gãy, ảo ảnh sa mạc... cho thấy trực quan có thể dẫn đến sai lầm nếu không có tư duy thẩm định.\n• Bị giới hạn bởi không - thời gian trực tiếp: Giác quan con người không thể nhìn xuyên qua lòng đất, không thể nhìn thấy cấu trúc nguyên tử hay quá trình lịch sử hàng triệu năm trước nếu không có tư duy lý luận.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "28.87cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[27]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "ĐỂ NẮM BẮT ĐƯỢC QUY LUẬT VÀ BẢN CHẤT SỰ VẬT, NHẬN THỨC TẤT YẾU PHẢI TIẾN LÊN NHẬN THỨC LÝ TÍNH",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[27]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 15 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nGiáo trình trang 249 chỉ rõ giới hạn của nhận thức cảm tính: Nhận thức cảm tính chưa đem lại những hiểu biết sâu sắc về bản chất, quy luật của sự vật.\n\n✦ VÍ DỤ THỰC TIỄN:\nMắt ta thấy đồng tiền xu to bằng Mặt Trời trên bầu trời; thấy chiếc que cắm vào ly nước bị gãy khúc (khúc xạ quang học). Cảm giác chỉ ghi nhận hiện tượng bề ngoài, thậm chí đánh lừa ta.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nKhông thể chỉ dựa vào mắt thấy tai nghe để kết luận bản chất. Nhận thức tất yếu phải tiến lên giai đoạn cao hơn: Nhận thức lý tính (Tư duy trừu tượng).\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nVậy nhận thức lý tính là gì và có sức mạnh to lớn ra sao? Xin mời xem slide 28."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[28]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ PHẦN III: CÁC GIAI ĐOẠN NHẬN THỨC (TRANG 249 – 250)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[28]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "GIAI ĐOẠN NHẬN THỨC LÝ TÍNH",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[28]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Tư duy trừu tượng • Phản ánh gián tiếp, khái quát bản chất và quy luật ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[28]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "BẢN CHẤT VÀ ĐẶC ĐIỂM CỦA TƯ DUY TRỪU TƯỢNG\n\n• Tính gián tiếp: Được thực hiện thông qua công cụ ngôn ngữ, các khái niệm, quy luật và phương tiện suy luận logic, không cần sự vật phải đang hiện diện trước mắt.\n• Tính trừu tượng và khái quát: Gạt bỏ những yếu tố ngẫu nhiên, cá biệt bề ngoài để nắm lấy những thuộc tính bản chất, phổ biến của cả một lớp sự vật.\n• Đi sâu vào quy luật: Có khả năng phát hiện ra mối liên hệ nhân quả, quy luật vận động nội tại và dự báo xu thế phát triển tương lai.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "17.8cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[28]",
+    "type": "picture",
+    "props": {
+      "name": "!!actor-pic",
+      "src": "presentation/assets/images/historic_library.jpg",
+      "x": "21.0cm",
+      "y": "4.3cm",
+      "width": "10.37cm",
+      "height": "12.0cm",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[28]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "NHỜ CÓ NHẬN THỨC LÝ TÍNH, CON NGƯỜI MỚI THỰC SỰ LÀM CHỦ ĐƯỢC KHOA HỌC VÀ CẢI TẠO ĐƯỢC THẾ GIỚI",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[28]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 20 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nGiáo trình trang 249 – 250 phân tích giai đoạn hai: Nhận thức lý tính (Tư duy trừu tượng). Đây là giai đoạn phản ánh gián tiếp, trừu tượng và khái quát bản chất, quy luật của sự vật.\n\n✦ VÍ DỤ THỰC TIỄN:\nNhờ có nhận thức lý tính, nhà vật lý không cần nhìn trực tiếp bằng mắt thường mà vẫn tính toán được khối lượng của electron, cấu trúc của lỗ đen, hay quy luật giá trị thặng dư trong kinh tế học.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nNhận thức lý tính dựa trên chất liệu do cảm tính cung cấp, nhưng vượt lên trên cảm tính nhờ công cụ ngôn ngữ và các thao tác tư duy (phân tích, tổng hợp, trừu tượng hóa, khái quát hóa).\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nNhận thức lý tính được biểu hiện qua 3 hình thức cơ bản nào? Xin mời xem slide 29."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[29]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ CẤU TRÚC TƯ DUY TRỪU TƯỢNG (TRANG 250 – 251)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[29]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "KHÁI NIỆM • PHÁN ĐOÁN • SUY LÝ",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[29]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Ba hình thức cơ bản của giai đoạn Nhận thức lý tính ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[29]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "KHÁI NIỆM (CONCEPT)\n[HÌNH THỨC CƠ BẢN NHẤT CỦA TƯ DUY]\n\nPhản ánh những thuộc tính bản chất, phổ biến của một nhóm sự vật hiện tượng. Được biểu hiện bằng các từ hoặc cụm từ khoa học.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[29]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card2",
+      "text": "PHÁN ĐOÁN (JUDGEMENT)\n[LIÊN KẾT CÁC KHÁI NIỆM]\n\nLiên kết các khái niệm lại để khẳng định hoặc phủ định một thuộc tính nào đó của đối tượng. Gồm 3 loại: Đơn nhất, Đặc thù, Phổ biến .",
+      "x": "12.3cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[29]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card3",
+      "text": "SUY LÝ / SUY LUẬN (INFERENCE)\n[SẢN SINH TRI THỨC MỚI]\n\nTừ một hoặc nhiều phán đoán tiền đề đã biết, thông qua quy tắc logic để rút ra phán đoán kết luận mới (tri thức mới chưa từng biết trước đó).",
+      "x": "22.1cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "2E7D32:1.5:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[29]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 30 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nGiáo trình trang 250 – 251 phân tích 3 hình thức của nhận thức lý tính: 1. Khái niệm (Concept); 2. Phán đoán (Judgement); 3. Suy lý / Suy luận (Inference).\n\n✦ VÍ DỤ THỰC TIỄN:\nKhái niệm: 'Kim loại' là chất dẫn điện. Phán đoán: 'Đồng là kim loại' (liên kết khái niệm đồng và kim loại). Suy lý: Đồng là kim loại, kim loại dẫn điện -> Suy ra: Đồng dẫn điện (tri thức mới được sinh ra).\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nGiáo trình trang 251 phân tích 3 loại phán đoán cơ bản: Phán đoán đơn nhất, Phán đoán đặc thù, Phán đoán phổ biến.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nTrong suy lý, hai phương pháp tư duy nào có quan hệ hữu cơ mật thiết với nhau? Xin mời xem slide 30."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[30]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ PHƯƠNG PHÁP SUY LUẬN KHOA HỌC (TRANG 251 – 252)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[30]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "QUY NẠP VÀ DIỄN DỊCH",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[30]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Hai phương pháp suy luận gắn bó hữu cơ trong nghiên cứu khoa học ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[30]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "PHƯƠNG PHÁP QUY NẠP (INDUCTION)\n\nĐi từ những tri thức về sự vật, hiện tượng riêng lẻ, cá biệt để khái quát rút ra tri thức mang tính quy luật chung cho toàn bộ lớp đối tượng.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "14.0cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[30]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card2",
+      "text": "PHƯƠNG PHÁP DIỄN DỊCH (DEDUCTION)\n\nĐi từ tri thức mang tính nguyên lý, quy luật chung đã được xác lập để suy ra kết luận về từng trường hợp cá biệt cụ thể.",
+      "x": "17.3cm",
+      "y": "4.3cm",
+      "w": "14.0cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[30]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 20 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nGiáo trình trang 251 – 252 phân tích 2 phương pháp suy luận cốt lõi của tư duy: Quy nạp (Induction) và Diễn dịch (Deduction).\n\n✦ VÍ DỤ THỰC TIỄN:\nQuy nạp: Quan sát sắt dẫn điện, đồng dẫn điện, nhôm dẫn điện -> Rút ra kết luận chung: Mọi kim loại đều dẫn điện. Diễn dịch: Mọi kim loại đều dẫn điện, vàng là kim loại -> Kết luận: Vàng dẫn điện.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nPh. Ăngghen nhấn mạnh: 'Quy nạp và diễn dịch gắn liền với nhau một cách tất yếu như tổng hợp và phân tích'. Không thể tuyệt đối hóa một phương pháp nào.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nVậy hai giai đoạn Cảm tính và Lý tính có mối quan hệ biện chứng với nhau như thế nào? Xin mời xem slide 31."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[31]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ MỐI QUAN HỆ BIỆN CHỨNG (TRANG 252)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[31]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "QUAN HỆ BIỆN CHỨNG CẢM TÍNH VÀ LÝ TÍNH",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[31]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Thống nhất hữu cơ • Phê phán Chủ nghĩa Duy cảm và Chủ nghĩa Duy lý ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[31]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "• Thống nhất biện chứng: Là hai giai đoạn khác nhau về chất trong cùng một quá trình nhận thức duy nhất của con người.\n• Cảm tính là cơ sở của lý tính: Nếu không có sự tác động trực tiếp của khách thể vào giác quan để cung cấp dữ liệu ban đầu thì tư duy trừu tượng không có chất liệu để khái quát.\n• Lý tính chỉ đạo và nâng tầm cảm tính: Nhờ có lý luận khoa học định hướng, con người mới biết cần quan sát cái gì, đo đạc thông số nào để tìm ra bản chất.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "28.87cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[31]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "NHẬN THỨC CẢM TÍNH KHÔNG CÓ LÝ TÍNH THÌ MÙ QUÁNG; NHẬN THỨC LÝ TÍNH KHÔNG CÓ CẢM TÍNH THÌ RỖNG TUẾCH",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[31]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 30 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nGiáo trình trang 252 phân tích sâu sắc mối quan hệ biện chứng giữa nhận thức cảm tính và nhận thức lý tính. Hai giai đoạn khác nhau về chất nhưng thống nhất hữu cơ với nhau.\n\n✦ VÍ DỤ THỰC TIỄN:\nCảm tính cung cấp chất liệu cho lý tính; Lý tính định hướng soi đường cho cảm tính quan sát đúng trọng tâm. Triết học Mác phê phán nghiêm khắc 2 sai lầm: 1) Chủ nghĩa duy cảm (Sensualism - coi thường lý tính); 2) Chủ nghĩa duy lý (Rationalism - coi thường cảm tính).\n\n✦ LUẬN ĐIỂM CỐT LÕI:\n'Không có nhận thức cảm tính thì không có nhận thức lý tính; không có nhận thức lý tính thì không thể nắm bắt được bản chất sự vật'.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nSự thống nhất này vận động như thế nào trong thực tiễn? Chúng ta cùng quan sát sơ đồ vòng xoắn ốc nhận thức ở slide 32."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[32]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ MÔ HÌNH BIỆN CHỨNG (TRANG 252 – 253)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[32]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "VÒNG KHÂU VÀ HÌNH XOẮN ỐC NHẬN THỨC",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[32]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Trực quan sinh động → Tư duy trừu tượng → Thực tiễn (Vòng xoắn ốc vô tận) ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[32]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "QUY LUẬT VẬN ĐỘNG VÔ TẬN CỦA TRI THỨC NHÂN LOẠI\n\n• Một chu trình nhận thức hoàn chỉnh: Bắt đầu từ tiếp xúc thực tiễn cảm tính ➔ khái quát thành lý luận ➔ quay về chỉ đạo thực tiễn.\n• Vai trò kép của thực tiễn: Vừa là điểm kết thúc kiểm tra chu trình trước, vừa là điểm khởi đầu mở ra chu trình tiếp theo.\n• Hình xoắn ốc phát triển đi lên: Mỗi vòng nhận thức mới sâu sắc hơn, toàn diện hơn, tiệm cận gần hơn tới chân lý khách quan.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "28.87cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[32]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "SỰ NGHIỆP NHẬN THỨC CỦA LOÀI NGƯỜI LÀ MỘT QUÁ TRÌNH PHÁT TRIỂN LỊCH SỬ KHÔNG BAO GIỜ CÓ ĐIỂM DỪNG CUỐI CÙNG",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[32]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 30 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nGiáo trình trang 252 – 253 tổng kết: Sự thống nhất giữa Trực quan sinh động, Tư duy trừu tượng và Thực tiễn tạo thành một vòng khâu nhận thức.\n\n✦ VÍ DỤ THỰC TIỄN:\nMột vòng nhận thức: Trực quan sinh động -> Tư duy trừu tượng -> Thực tiễn. Thực tiễn vừa kiểm tra kết quả nhận thức vòng 1, vừa mở ra dữ liệu và bài toán mới cho vòng 2 ở trình độ cao hơn. Quá trình này tiếp diễn vô tận theo đường xoắn ốc.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nNhận thức không phải là đường thẳng khép kín mà là đường xoắn ốc đi lên không cùng, phản ánh sự phát triển vô tận của tri thức loài người.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nSản phẩm cao quý nhất của hành trình nhận thức chính là CHÂN LÝ. Vậy Chân lý là gì? Chúng ta bước sang Phần IV."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[33]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ PHẦN IV: LÝ LUẬN VỀ CHÂN LÝ (TRANG 253 – 254)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[33]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "KHÁI NIỆM CHÂN LÝ",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[33]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Tri thức phù hợp với hiện thực khách quan và được thực tiễn kiểm nghiệm ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[33]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "• Chân lý là tri thức: Tồn tại dưới dạng tư tưởng trong đầu con người, không đồng nhất chân lý với bản thân thế giới vật chất bên ngoài.\n• Sự phù hợp khách quan: Nội dung phản ánh của tri thức phải phản ánh đúng đắn hiện thực khách quan đang vận động.\n• Được thực tiễn xác nhận: Không có sự công nhận của thực tiễn thì tri thức dù có vẻ logic cũng chỉ dừng lại ở mức giả thuyết.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "17.8cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[33]",
+    "type": "picture",
+    "props": {
+      "name": "!!actor-pic",
+      "src": "presentation/assets/images/friedrich_engels.jpg",
+      "x": "21.0cm",
+      "y": "4.3cm",
+      "width": "10.37cm",
+      "height": "12.0cm",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[33]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "CHÂN LÝ KHÔNG PHẢI LÀ SẢN PHẨM CHỦ QUAN TỰ SINH RA TỪ TRÍ NÃO, MÀ NỘI DUNG CỦA NÓ LÀ HIỆN THỰC KHÁCH QUAN",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[33]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 20 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nChúng ta bước vào Phần IV: Lý luận về Chân lý (Giáo trình trang 253 – 256). Triết học Mác – Lênin định nghĩa: Chân lý là tri thức phù hợp với hiện thực khách quan và đã được thực tiễn kiểm nghiệm.\n\n✦ VÍ DỤ THỰC TIỄN:\nNếu ai đó nói 'Trái Đất là trung tâm vũ trụ' thì dù giáo hội thời Trung cổ có tin theo, đó vẫn là sai lầm, không phải chân lý. Ngược lại, 'Trái Đất quay quanh Mặt Trời' phản ánh đúng khách quan và đã được thiên văn thực nghiệm chứng minh, đó chính là chân lý.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nChân lý là tri thức (thuộc về ý thức), nhưng nội dung phản ánh của chân lý là thế giới khách quan. Phân biệt chân lý với sai lầm và định kiến chủ quan.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nChân lý có những tính chất căn bản nào? Chúng ta cùng tìm hiểu 3 tính chất lớn: Khách quan, Tương đối & Tuyệt đối, và Cụ thể."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[34]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ TÍNH CHẤT CỦA CHÂN LÝ (TRANG 254)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[34]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "TÍNH KHÁCH QUAN CỦA CHÂN LÝ",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[34]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Nội dung chân thực của tri thức không phụ thuộc vào ý muốn chủ quan ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[34]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "• Khái niệm chân lý khách quan: Dùng để chỉ tính độc lập của nội dung tri thức đối với ý thức của con người và loài người.\n• Không phụ thuộc vào số đông: Một nhận thức dù được hàng triệu người tin theo nhưng sai trái với quy luật khách quan thì vẫn là sai lầm; ngược lại, chân lý dù ban đầu chỉ một người phát hiện ra (Galileo, Einstein) thì vẫn là chân lý.\n• Không phụ thuộc vào quyền lực hay lợi ích giai cấp: Chân lý khoa học không phục vụ thói ngụy biện của giai cấp thống trị bóc lột.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "28.87cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[34]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "LÊNIN: \"THỪA NHẬN CHÂN LÝ KHÁCH QUAN LÀ ĐIỀU KIỆN ĐẦU TIÊN ĐỂ PHÂN BIỆT CHỦ NGHĨA DUY VẬT VỚI CHỦ NGHĨA DUY TÂM\"",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[34]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 20 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nTính chất đầu tiên và quan trọng nhất của chân lý: TÍNH KHÁCH QUAN (Giáo trình trang 254). Chân lý là tri thức của con người, nhưng nội dung của nó là hiện thực khách quan.\n\n✦ VÍ DỤ THỰC TIỄN:\nDù giáo hội phong kiến thời trung cổ có quyền lực tối cao, dù tòa án tôn giáo có kết án Galileo Galilei và thiêu sống Giordano Bruno, thì chân lý 'Trái Đất quay quanh Mặt Trời' vẫn nguyên giá trị khách quan của nó.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nNội dung chân lý không phụ thuộc vào ý muốn chủ quan, không phụ thuộc vào quyền thế, tiền tài hay số đông biểu quyết.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nTính chất thứ hai của chân lý là gì? Xin mời xem slide 35: Tính tuyệt đối và Tính tương đối của chân lý."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[35]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ TÍNH CHẤT CỦA CHÂN LÝ (TRANG 254 – 255)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[35]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "TÍNH TUYỆT ĐỐI VÀ TÍNH TƯƠNG ĐỐI CỦA CHÂN LÝ",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[35]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Mối quan hệ biện chứng giữa chân lý bộ phận và chân lý hoàn toàn ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[35]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "✦ CHÂN LÝ TƯƠNG ĐỐI\n\nLà tri thức phản ánh đúng đắn nhưng chưa hoàn toàn đầy đủ hiện thực khách quan; mới phản ánh đúng một mặt, một bộ phận trong những điều kiện lịch sử nhất định.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "14.0cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[35]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card2",
+      "text": "✦ CHÂN LÝ TUYỆT ĐỐI\n\nLà tri thức phản ánh hoàn toàn đầy đủ, toàn diện hiện thực khách quan. Chân lý tuyệt đối là tổng số vô tận của các chân lý tương đối trong quá trình nhận thức.",
+      "x": "17.3cm",
+      "y": "4.3cm",
+      "w": "14.0cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[35]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 30 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nGiáo trình trang 254 – 255 phân tích tính chất thứ hai: Tính tuyệt đối và tính tương đối của chân lý.\n\n✦ VÍ DỤ THỰC TIỄN:\nCơ học cổ điển của Newton là chân lý tương đối: đúng hoàn toàn ở vận tốc nhỏ so với ánh sáng. Khi vận tốc tiệm cận ánh sáng, Thuyết tương đối của Einstein bao quát và mở rộng hơn. Chân lý tuyệt đối là tổng hòa vô tận của vô số chân lý tương đối.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nV.I. Lênin cảnh báo 2 sai lầm: 1) Chủ nghĩa hoài nghi tương đối luận (cho rằng mọi thứ chỉ là tương đối, phủ nhận chân lý tuyệt đối); 2) Chủ nghĩa giáo điều (tuyệt đối hóa một chân lý cụ thể thành chân lý vĩnh cửu bất biến).\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nTính chất thứ ba không thể tách rời của chân lý là gì? Xin mời xem slide 36: Tính cụ thể của chân lý."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[36]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ TÍNH CHẤT CỦA CHÂN LÝ (TRANG 255 – 256)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[36]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "TÍNH CỤ THỂ CỦA CHÂN LÝ",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[36]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ \"Không có chân lý trừu tượng, chân lý luôn luôn là cụ thể\" — V.I. Lênin ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[36]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "GẮN LIỀN VỚI ĐIỀU KIỆN LỊCH SỬ – KHÔNG GIAN – THỜI GIAN\n\n• Không có chân lý chung chung trừu tượng: Mọi tri thức chỉ được coi là chân lý khi xem xét trong một giới hạn, phạm vi và điều kiện lịch sử xác định.\n• Vượt quá giới hạn sẽ biến thành sai lầm: Một mệnh đề đúng đắn nếu đem áp dụng ra ngoài không gian, thời gian và điều kiện của nó thì sẽ lập tức trở thành ngụy biện, tai hại.\n• Cơ sở của tính sáng tạo: Đòi hỏi người hành động phải phân tích tình hình cụ thể của từng địa phương, từng thời điểm chứ không được rập khuôn máy móc.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "28.87cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[36]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "LÊNIN: \"BẤT KỲ CHÂN LÝ NÀO NẾU BỊ ĐẨY ĐI QUÁ GIỚI HẠN CỦA NÓ... ĐỀU CÓ THỂ BIẾN THÀNH MỘT SỰ VÔ LÝ\"",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[36]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 20 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nTính chất thứ ba vô cùng sâu sắc của chân lý: TÍNH CỤ THỂ (Giáo trình trang 255 – 256). V.I. Lênin đúc kết câu danh ngôn nổi tiếng: 'Không có chân lý trừu tượng, chân lý luôn luôn là cụ thể'.\n\n✦ VÍ DỤ THỰC TIỄN:\nMệnh đề: 'Nước sôi ở 100 độ C' chỉ là chân lý ở áp suất 1 atm (ngang mực nước biển). Nhưng nếu mang nồi nước lên đỉnh Fansipan hay đỉnh Everest (áp suất không khí loãng), nước sẽ sôi ở khoảng 70-75 độ C mà thôi! Tách khỏi điều kiện cụ thể thì chân lý biến thành sai lầm.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nMỗi chân lý luôn gắn liền với điều kiện lịch sử, không gian, thời gian và phạm vi xác định.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nTính cụ thể của chân lý đòi hỏi chúng ta phải quán triệt nguyên tắc phương pháp luận nào? Xin mời xem slide 37: Quan điểm lịch sử - cụ thể."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[37]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ NGUYÊN TẮC PHƯƠNG PHÁP LUẬN",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[37]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "QUAN ĐIỂM LỊCH SỬ – CỤ THỂ TRONG NHẬN THỨC",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[37]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Nguyên tắc xem xét sự vật trong bối cảnh không gian và thời gian xác định ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[37]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "BA NGUYÊN TẮC QUÁN TRIỆT QUAN ĐIỂM LỊCH SỬ – CỤ THỂ\n\n• Xem xét trong không gian, thời gian cụ thể: Mỗi sự vật sinh ra, phát triển và tiêu vong trong một hoàn cảnh lịch sử nhất định; phải tìm hiểu nguồn gốc và điều kiện đó.\n• Tránh sao chép, áp dụng rập khuôn: Bài học kinh nghiệm của người khác hay của thời kỳ trước chỉ có giá trị tham khảo, không được bê nguyên xi vào điều kiện mới.\n• Có giải pháp linh hoạt, phù hợp: Phải căn cứ vào thực lực, nguồn lực và mâu thuẫn hiện tại để hoạch định bước đi thích hợp cho từng giai đoạn.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "28.87cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[37]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "LÊNIN: \"BẢN CHẤT CỦA PHÉP BIỆN CHỨNG LÀ PHÂN TÍCH CỤ THỂ MỘT TÌNH HÌNH CỤ THỂ\"",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[37]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 20 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nTừ tính cụ thể của chân lý, triết học Mác – Lênin rút ra nguyên tắc phương pháp luận: QUAN ĐIỂM LỊCH SỬ - CỤ THỂ.\n\n✦ VÍ DỤ THỰC TIỄN:\nKhi Việt Nam xây dựng nền kinh tế thị trường định hướng xã hội chủ nghĩa, chúng ta không sao chép nguyên mẫu kinh tế thị trường tư bản phương Tây, cũng không rập khuôn mô hình bao cấp cũ, mà vận dụng sáng tạo phù hợp với hoàn cảnh lịch sử - cụ thể của đất nước.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nQuan điểm lịch sử - cụ thể yêu cầu khi xem xét bất kỳ sự vật, hiện tượng nào cũng phải đặt nó trong bối cảnh không gian, thời gian và mối liên hệ cụ thể sinh ra nó.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nBây giờ, chúng ta mang toàn bộ những nguyên lý nhận thức luận và chân lý này soi chiếu vào đời sống thực tế của chính mỗi sinh viên trong kỷ nguyên số. Xin mời bước sang Phần V."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[38]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ PHẦN V: VẬN DỤNG THỰC TIỄN & KỶ NGUYÊN SỐ",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[38]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "LIÊN HỆ THỰC TIỄN HỌC TẬP CỦA SINH VIÊN",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[38]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Học lý thuyết → Tư duy phản biện → Thực hành thí nghiệm / Đồ án ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[38]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "BỐN BƯỚC HỌC TẬP BIỆN CHỨNG CỦA NGƯỜI HỌC HIỆN ĐẠI\n\nBước 1 (Trực quan sinh động):\nĐọc giáo trình, nghe giảng, quan sát mô hình mẫu, tích lũy dữ liệu thô.\nBước 2 (Tư duy trừu tượng):\nĐặt câu hỏi tại sao, phân tích bản chất, lập sơ đồ khái niệm, giải bài tập mô hình.\nBước 3 (Kiểm nghiệm thực tiễn):\nBắt tay vào viết code, làm thí nghiệm lab, làm đồ án môn học, đi thực tập doanh nghiệp.\nBước 4 (Tổng kết & Hoàn thiện):\nThấy code lỗi thì sửa, thấy giả thuyết sai thì điều chỉnh, nâng tầm nhận thức lên nấc cao mới.\nTHỰC HÀNH LÀ CON ĐƯỜNG NGẮN NHẤT VÀ DUY NHẤT ĐỂ BIẾN KIẾN THỨC SÁCH VỞ THÀNH BẢN LĨNH CHUYÊN MÔN",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "17.8cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[38]",
+    "type": "picture",
+    "props": {
+      "name": "!!actor-pic",
+      "src": "presentation/assets/images/students_chemistry_lab.jpg",
+      "x": "21.0cm",
+      "y": "4.3cm",
+      "width": "10.37cm",
+      "height": "12.0cm",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[38]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "THỰC HÀNH LÀ CON ĐƯỜNG NGẮN NHẤT VÀ DUY NHẤT ĐỂ BIẾN KIẾN THỨC SÁCH VỞ THÀNH BẢN LĨNH CHUYÊN MÔN",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[38]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 30 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nChúng ta sang Phần V: Liên hệ bản thân. Một sinh viên đại học vận dụng con đường biện chứng của nhận thức như thế nào? Bắt đầu từ việc nghe giảng, đọc sách (cảm tính), đến tự nghiên cứu, suy nghĩ bản chất (lý tính), và quan trọng nhất: LÀM ĐỒ ÁN, VIẾT CODE, THỰC HÀNH PHÒNG LAB (thực tiễn).\n\n✦ VÍ DỤ THỰC TIỄN:\nMột sinh viên CNTT học thuật toán sắp xếp (lý thuyết), nhưng chỉ khi ngồi code và chạy thử trên dữ liệu 1 triệu bản ghi, phát hiện lỗi tràn bộ nhớ rồi tối ưu lại - đó chính là vòng khâu nhận thức biện chứng hoàn chỉnh!\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nHọc tập không phải là tiếp thu thụ động một chiều, mà là quá trình chủ thể tích cực sáng tạo thông qua thực hành liên tục.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nĐặc biệt, sinh viên thời đại 4.0 đang đối mặt với một công cụ mang tính cách mạng: Trí tuệ Nhân tạo (AI). Chúng ta cần có thái độ biện chứng như thế nào? Xin mời xem slide 39."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[39]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ TRIẾT HỌC TRONG THẾ KỶ 21",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[39]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "THÁI ĐỘ BIỆN CHỨNG TRƯỚC LÀN SÓNG AI",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[39]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ AI là công cụ nối dài nhận thức • Thực tiễn là thước đo kiểm chứng ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[39]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "✔ AI LÀ CÔNG CỤ THỰC TIỄN NỐI DÀI TRÍ TUỆ\n\n• Như kính thiên văn mở rộng thị giác nhìn vào vũ trụ, AI mở rộng năng lực xử lý dữ liệu khổng lồ của não bộ con người.\n• Hỗ trợ gợi ý ý tưởng, tổng hợp tài liệu, tự động hóa tác vụ lặp lại để con người tập trung vào tư duy sáng tạo bậc cao.\n• Thúc đẩy rút ngắn chu trình từ ý tưởng khoa học ra thử nghiệm thực tế.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "14.0cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[39]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card2",
+      "text": "⚠ NGUY CƠ ẢO GIÁC (HALLUCINATION) & GIÁO ĐIỀU SỐ\n\n• AI không có ý thức xã hội: AI chỉ dự đoán xác suất thống kê từ ngữ, không hiểu bản chất hiện thực khách quan.\n• Không tin tưởng mù quáng: Câu trả lời của AI có thể sai lệch nghiêm trọng; không được lấy AI làm tiêu chuẩn chân lý.\n• Mệnh lệnh kiểm chứng: Sinh viên phải luôn đối chiếu giáo trình gốc, chạy thử nghiệm mã nguồn và lập luận phản biện độc lập.",
+      "x": "17.3cm",
+      "y": "4.3cm",
+      "w": "14.0cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[39]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 30 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nChúng ta nhìn nhận làn sóng Trí tuệ nhân tạo (ChatGPT, Gemini, Copilot...) dưới góc độ triết học Mác - Lênin. AI là gì? AI chính là một 'công cụ thực tiễn mới', là sản phẩm của thực tiễn khoa học công nghệ, giúp mở rộng vượt bậc năng lực trí tuệ của con người.\n\n✦ VÍ DỤ THỰC TIỄN:\nTuy nhiên, AI thường xuyên mắc hiện tượng 'ảo giác' (Hallucination) - sinh ra các câu trả lời nghe rất trôi chảy nhưng thực chất sai sự thật. Nếu sinh viên sao chép mù quáng, sinh viên đang rơi vào chủ nghĩa giáo điều kiểu mới!\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nQuan điểm Mác - Lênin dạy ta: AI là phương tiện hỗ trợ, con người là chủ thể sáng tạo; THỰC TIỄN và KIỂM CHỨNG TƯ DUY PHẢN BIỆN mới là tiêu chuẩn tối thượng của chân lý, không phải số lượng token của AI.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nTừ đó, mỗi người học cần rút ra bài học phương pháp luận hành động như thế nào? Xin mời xem slide 40."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[40]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ TỔNG KẾT PHƯƠNG PHÁP LUẬN HÀNH ĐỘNG",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[40]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "BA PHƯƠNG CHÂM HÀNH ĐỘNG VÀNG KIM",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[40]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Học đi đôi với hành • Lý luận gắn liền thực tiễn • Đổi mới không ngừng ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[40]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "HỌC ĐI ĐÔI VỚI HÀNH\n\nBiến tri thức thành hành động. Chủ động tham gia nghiên cứu khoa học, viết bài báo, tham gia dự án cộng đồng và rèn luyện kỹ năng nghề nghiệp ngay khi còn ngồi trên ghế giảng đường.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[40]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card2",
+      "text": "TƯ DUY PHẢN BIỆN SÁNG TẠO\n\nKhông cả tin, không giáo điều trước thông tin mạng hay câu trả lời của AI. Luôn phân tích logic, truy tìm nguồn tài liệu xác thực và lấy thực nghiệm khách quan làm thước đo.",
+      "x": "12.3cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[40]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card3",
+      "text": "HỌC TẬP SUỐT ĐỜI\n\nNhận thức chân lý là đường xoắn ốc vô tận. Không bao giờ tự thỏa mãn với lượng kiến thức hiện tại; liên tục cập nhật công nghệ và tri thức mới để không bị đào thải.",
+      "x": "22.1cm",
+      "y": "4.3cm",
+      "w": "9.2cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "2E7D32:1.5:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[40]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 20 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nChúng ta đúc kết 3 phương châm hành động vàng kim cho sinh viên từ toàn bộ lý luận nhận thức Mác - Lênin.\n\n✦ VÍ DỤ THỰC TIỄN:\n1. Học đi đôi với hành: Đọc sách phải làm bài tập, học lý thuyết phải làm dự án. 2. Tư duy phản biện: Trước mọi thông tin, công nghệ số, phải đặt câu hỏi kiểm chứng. 3. Không ngừng đổi mới: Nhận thức là đường xoắn ốc vô tận, không tự mãn bảo thủ.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nSức sống của triết học Mác - Lênin không nằm ở câu chữ đông cứng mà nằm ở phương pháp luận biện chứng hướng dẫn hành động thực tiễn.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nĐể tổng kết toàn diện toàn bộ bài giảng 50 phút, chúng ta cùng quan sát Sơ đồ Mindmap tổng kết ở slide 41."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[41]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ PHẦN VI: TỔNG KẾT HỆ THỐNG",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[41]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "SƠ ĐỒ TỔNG THỂ LÝ LUẬN NHẬN THỨC MÁC – LÊNIN",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[41]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Toàn cảnh kiến thức: Khách thể ⇄ Chủ thể ⇄ Cảm tính ⇄ Lý tính ⇄ Thực tiễn ⇄ Chân lý ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[41]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "1. BẢN CHẤT\n\n• Phản ánh tích cực, sáng tạo\n• Khách thể ⇄ Chủ thể\n• 3 Nguyên tắc V.I. Lênin\n• Kinh nghiệm vs. Lý luận",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "6.8cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[41]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card2",
+      "text": "2. THỰC TIỄN\n\n• Hoạt động vật chất cảm tính\n• 3 Hình thức: Sản xuất, Chính trị, Thực nghiệm\n• 4 Vai trò: Cơ sở, Động lực, Mục đích, Tiêu chuẩn",
+      "x": "9.8cm",
+      "y": "4.3cm",
+      "w": "6.8cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[41]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card3",
+      "text": "3. CON ĐƯỜNG\n\n• Cảm tính: Cảm giác, Tri giác, Biểu tượng\n• Lý tính: Khái niệm, Phán đoán, Suy lý\n• Vòng xoắn ốc vô tận của nhận thức",
+      "x": "17.1cm",
+      "y": "4.3cm",
+      "w": "6.8cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "1E88E5:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[41]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card4",
+      "text": "4. CHÂN LÝ\n\n• Phù hợp hiện thực khách quan\n• Tính khách quan\n• Tính tuyệt đối & tương đối\n• Tính cụ thể trong không - thời gian",
+      "x": "24.4cm",
+      "y": "4.3cm",
+      "w": "6.8cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "2E7D32:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[41]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "SỰ THỐNG NHẤT HỮU CƠ: THỰC TIỄN LÀ GỐC ➔ TƯ DUY LÀ ĐÒN BẨY ➔ CHÂN LÝ LÀ ĐÍCH ĐẾN",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[41]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 2 phút\n\n✦ GIẢNG GIẢI NỘI DUNG:\nGiảng viên dùng slide này để hệ thống hóa lại toàn bộ 40 slide đã trình bày trong 2 phút. Toàn bộ Lý luận nhận thức Mác - Lênin thu gọn trong một bức tranh biện chứng duy nhất.\n\n✦ VÍ DỤ THỰC TIỄN:\nTừ Khách thể khách quan -> tác động qua Thực tiễn -> sinh ra Nhận thức cảm tính (Cảm giác, Tri giác, Biểu tượng) -> nâng lên Nhận thức lý tính (Khái niệm, Phán đoán, Suy lý) -> kiểm nghiệm qua Thực tiễn -> kết tinh thành Chân lý (Khách quan, Tuyệt đối/Tương đối, Cụ thể) -> chỉ đạo Thực tiễn tiếp theo.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nSơ đồ này là công cụ ôn tập vô giá giúp sinh viên ghi nhớ bản chất và mối liên hệ giữa các khái niệm thi kết thúc học phần.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nTiếp theo, chúng ta cùng xem xét các câu hỏi ôn tập chính thức trong giáo trình."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[42]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ BỘ GIÁO TRÌNH TRIẾT HỌC MÁC – LÊNIN (TRANG 256)",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[42]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "HỆ THỐNG CÂU HỎI ÔN TẬP VÀ THẢO LUẬN",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[42]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Bám sát đề cương thi kết thúc học phần Triết học Mác – Lênin ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[42]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "Phân tích bản chất của nhận thức theo quan điểm của chủ nghĩa duy vật biện chứng? Phân biệt nhận thức kinh nghiệm và nhận thức lý luận?\nThực tiễn là gì? Phân tích vai trò của thực tiễn đối với nhận thức và ý nghĩa phương pháp luận của quan điểm thực tiễn?\nPhân tích con đường biện chứng của quá trình nhận thức: Từ nhận thức cảm tính đến nhận thức lý tính và sự kiểm nghiệm của thực tiễn?\nChân lý là gì? Trình bày các tính chất của chân lý và ý nghĩa của quan điểm lịch sử - cụ thể trong học tập và công tác?",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "28.87cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "14",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[42]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "YÊU CẦU BÀI THI: ĐỦ ĐỊNH NGHĨA KHOA HỌC • PHÂN TÍCH QUY LUẬT BIỆN CHỨNG • NÊU VÍ DỤ THỰC TIỄN SINH ĐỘNG",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[42]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 30 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nGiáo trình trang 256 đưa ra hệ thống câu hỏi ôn tập thi kết thúc học phần. Chúng ta chọn lọc 4 câu hỏi then chốt nhất của Phần III để hướng dẫn sinh viên cách ôn tập.\n\n✦ VÍ DỤ THỰC TIỄN:\nCâu hỏi 1 về bản chất nhận thức; Câu hỏi 2 về vai trò thực tiễn và nguyên tắc phương pháp luận; Câu hỏi 3 về các giai đoạn cảm tính và lý tính; Câu hỏi 4 về chân lý và các tính chất.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nKhi làm bài thi, sinh viên phải kết cấu đủ 3 phần: Nêu định nghĩa khoa học -> Phân tích luận giải -> Nêu ví dụ thực tiễn minh chứng.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nVà ngay sau đây, hãy cùng thử tài tư duy qua Trò chơi cuối giờ: Giải mã hành trình nhận thức!"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "680E1A",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[43]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ THỬ THÁCH TƯ DUY BIỆN CHỨNG CUỐI GIỜ",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "FFE28A",
+      "size": "11",
+      "bold": "true",
+      "align": "center",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[43]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "TRÒ CHƠI: \"GIẢI MÃ HÀNH TRÌNH NHẬN THỨC\"",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "FAF5EB",
+      "size": "26",
+      "bold": "true",
+      "align": "center",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[43]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ 5 Câu hỏi tình huống tổng hợp • Tranh danh hiệu Nhà Biện Chứng Xuất Sắc ★",
+      "x": "5.93cm",
+      "y": "3.1cm",
+      "w": "22.0cm",
+      "h": "0.85cm",
+      "color": "8F1524",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "FAF5EB",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[43]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "🏆 QUY TẮC & THỬ THÁCH TRANH TÀI:\n\nTrò chơi gồm 5 câu hỏi trắc nghiệm tình huống bao quát từ nhận thức cảm tính, quy nạp - diễn dịch, vai trò của thực tiễn, tính cụ thể của chân lý đến việc ứng dụng AI.\n\n• Điểm số: 20 điểm / câu trả lời đúng (Tối đa: 100 điểm).\n• Mục tiêu: Khắc sâu bản chất triết học và tôi luyện tư duy phản biện.",
+      "x": "4.0cm",
+      "y": "4.5cm",
+      "w": "25.87cm",
+      "h": "11.5cm",
+      "color": "FAF5EB",
+      "size": "15",
+      "align": "left",
+      "fill": "7A0F1D",
+      "line": "D4AF37:2:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[43]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút\n\n✦ GIẢNG GIẢI NỘI DUNG:\nChúng ta bước vào hoạt động tương tác cuối giờ: 'Giải mã hành trình nhận thức'. Thử thách gồm 5 câu hỏi tình huống tổng hợp toàn bộ bài học.\n\n✦ VÍ DỤ THỰC TIỄN:\nCác câu hỏi liên quan đến: Phân biệt cảm giác, phương pháp quy nạp trong y khoa, chạy thử mã nguồn AI, tính cụ thể của chân lý và thái độ trước hiện tượng AI hallucination.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nNgười chơi đạt điểm tối đa sẽ được trao danh hiệu: 'Bậc Thầy Lý Luận Nhận Thức Mác - Lênin'.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nXin mời cả lớp cùng chuẩn bị tranh tài!"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[44]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ MINI-GAME 2 • ĐÁNH GIÁ CHUẨN ĐẦU RA",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[44]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "GIẢI MÃ HÀNH TRÌNH NHẬN THỨC",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[44]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "",
+      "x": "36cm",
+      "y": "3.1cm",
+      "w": "1cm",
+      "h": "0.85cm",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[44]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "CÂU HỎI 1: Em bé chạm tay vào ấm nước nóng, rát bỏng và rụt tay lại?\n➔ ĐÁP ÁN: CẢM GIÁC (Sensation) — Hình thức đầu tiên phản ánh từng thuộc tính bề ngoài.\n\nCÂU HỎI 2: Bác sĩ nghiên cứu 100 ca bệnh nhân sốt phát ban để đúc kết phác đồ điều trị?\n➔ ĐÁP ÁN: PHƯƠNG PHÁP QUY NẠP (Induction) — Đi từ cá biệt, riêng lẻ đến quy luật chung.\n\nCÂU HỎI 3: Kỹ sư đưa thuật toán AI chạy benchmark trên cụm server kiểm tra độ chính xác?\n➔ ĐÁP ÁN: THỰC TIỄN LÀ TIÊU CHUẨN KIỂM CHỨNG CHÂN LÝ — Kiểm nghiệm lý thuyết vào máy móc.",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "14.0cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[44]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card2",
+      "text": "CÂU HỎI 4: Luận điểm 'Nước sôi ở 100°C' mang tính chất gì của chân lý?\n➔ ĐÁP ÁN: TÍNH CỤ THỂ VÀ TƯƠNG ĐỐI — Đúng ở áp suất 1 atm; trên đỉnh Everest sôi ở 71°C!\n\nCÂU HỎI 5: Trước hiện tượng AI bị 'ảo giác' (Hallucination), sinh viên cần làm gì theo Lênin?\n➔ ĐÁP ÁN: DÙNG THỰC NGHIỆM KIỂM CHỨNG, ĐỐI CHIẾU GIÁO TRÌNH VÀ TƯ DUY PHẢN BIỆN.\n\n🏆 CHÚC MỪNG BẠN ĐÃ TRỞ THÀNH NHÀ BIỆN CHỨNG XUẤT SẮC!",
+      "x": "17.3cm",
+      "y": "4.3cm",
+      "w": "14.0cm",
+      "h": "12.0cm",
+      "color": "2C221C",
+      "size": "13",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[44]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 3 phút 30 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nGiảng viên điều khiển trò chơi cuối giờ, gọi sinh viên trả lời, kích thích không khí sôi nổi trong lớp.\n\n✦ VÍ DỤ THỰC TIỄN:\nCâu 1: Chạm tay ấm nước rát (Cảm giác); Câu 2: Bác sĩ đúc kết 100 ca bệnh (Quy nạp); Câu 3: Kỹ sư chạy test server (Tiêu chuẩn chân lý); Câu 4: Nước sôi 100 độ C (Tính cụ thể & tương đối); Câu 5: AI ảo giác (Kiểm chứng thực nghiệm).\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nTổng kết điểm số và vinh danh sinh viên đạt kết quả cao.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nChúc mừng các bạn! Chúng ta cùng lắng đọng lại với Thông điệp triết học kết thúc bài giảng."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "151210",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[45]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ THÔNG ĐIỆP KẾT THÚC BÀI GIẢNG",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "D4AF37",
+      "size": "11",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[45]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "THÔNG ĐIỆP TRIẾT HỌC",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "FAF5EB",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[45]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Kim chỉ nam cho tư duy khoa học và hành động thực tiễn ★",
+      "x": "2.5cm",
+      "y": "3.1cm",
+      "w": "20.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[45]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "\"Thực tiễn không có lý luận hướng dẫn là thực tiễn mù quáng; Lý luận không liên hệ với thực tiễn là lý luận suông.\" — Khẩu hiệu phương pháp luận của Chủ nghĩa Mác – Lênin\n\nMỗi người trẻ hãy bước vào đời với trái tim nhiệt huyết, khối óc tư duy biện chứng sắc bén , luôn lấy thực tiễn phục vụ nhân dân và đất nước làm thước đo cao nhất cho mọi giá trị của tri thức!",
+      "x": "2.5cm",
+      "y": "4.3cm",
+      "w": "28.87cm",
+      "h": "12.0cm",
+      "color": "FAF5EB",
+      "size": "14",
+      "align": "left",
+      "fill": "221C18",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[45]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 30 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nChúng ta khép lại nội dung bài học bằng một thông điệp triết học lắng đọng, truyền cảm hứng sống và học tập suốt đời cho sinh viên.\n\n✦ VÍ DỤ THỰC TIỄN:\nChủ nghĩa Mác - Lênin không phải là một bộ giáo điều chết cứng, mà là kim chỉ nam cho hành động. Thực tiễn luôn vận động, tri thức nhân loại không ngừng mở rộng.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\n'Thực tiễn không có lý luận hướng dẫn là thực tiễn mù quáng; Lý luận không liên hệ với thực tiễn là lý luận suông'.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nXin mời Thầy Cô và các bạn đến với slide cảm ơn và phần hỏi đáp thảo luận."
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/",
+    "type": "slide",
+    "props": {
+      "background": "FAF5EB",
+      "transition": "morph-slow"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[46]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-badge",
+      "text": "★ BỘ GIÁO TRÌNH TRIẾT HỌC MÁC – LÊNIN • CHƯƠNG 2",
+      "x": "2.5cm",
+      "y": "0.7cm",
+      "w": "28.87cm",
+      "h": "0.7cm",
+      "color": "8F1524",
+      "size": "11",
+      "bold": "true",
+      "align": "center",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[46]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-title",
+      "text": "XIN TRÂN TRỌNG CẢM ƠN!",
+      "x": "2.5cm",
+      "y": "1.5cm",
+      "w": "28.87cm",
+      "h": "1.4cm",
+      "color": "8F1524",
+      "size": "24",
+      "bold": "true",
+      "align": "left",
+      "fill": "none",
+      "line": "none"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[46]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-pill",
+      "text": "★ Thầy Cô và các bạn sinh viên đã chú ý lắng nghe & thảo luận ★",
+      "x": "5.93cm",
+      "y": "3.1cm",
+      "w": "22.0cm",
+      "h": "0.85cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[46]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-card1",
+      "text": "PHẦN THẢO LUẬN & GIẢI ĐÁP THẮC MẮC\n\n• Chủ đề: Lý luận nhận thức duy vật biện chứng\n• Tài liệu tham khảo chính thức: Bộ Giáo trình Triết học Mác – Lênin, NXB Chính trị quốc gia Sự thật, Chương 2, Phần III (Trang 231 – 256).\n• Hỗ trợ kỹ thuật: Bấm phím N để mở Ghi chú thuyết trình, phím M để mở Mục lục slide, phím F để bật Toàn màn hình.",
+      "x": "2.5cm",
+      "y": "4.8cm",
+      "w": "18.0cm",
+      "h": "11.4cm",
+      "color": "2C221C",
+      "size": "15",
+      "align": "left",
+      "fill": "FFFFFF",
+      "line": "8F1524:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[46]",
+    "type": "picture",
+    "props": {
+      "name": "!!actor-pic",
+      "src": "presentation/assets/images/cutouts/lenin_podium.jpg",
+      "x": "21.5cm",
+      "y": "4.8cm",
+      "width": "9.87cm",
+      "height": "11.4cm",
+      "line": "D4AF37:1.5:solid"
+    }
+  },
+  {
+    "command": "add",
+    "parent": "/slide[46]",
+    "type": "shape",
+    "props": {
+      "name": "!!actor-takeaway",
+      "text": "KÍNH CHÚC THẦY CÔ VÀ CÁC BẠN SINH VIÊN SỨC KHỎE VÀ THÀNH CÔNG TRONG HỌC TẬP!",
+      "x": "2.5cm",
+      "y": "16.8cm",
+      "w": "28.87cm",
+      "h": "1.3cm",
+      "color": "FFE28A",
+      "size": "12",
+      "bold": "true",
+      "align": "center",
+      "fill": "8F1524",
+      "line": "D4AF37:1:solid"
+    }
+  },
+  {
+    "command": "set",
+    "path": "/slide[46]",
+    "props": {
+      "notes": "⏱ Thời lượng dự kiến: 1 phút 30 giây\n\n✦ GIẢNG GIẢI NỘI DUNG:\nGiảng viên và nhóm thuyết trình gửi lời cảm ơn trân trọng tới Thầy Cô và toàn thể các bạn sinh viên đã chú ý theo dõi và tham gia nhiệt tình vào bài học.\n\n✦ VÍ DỤ THỰC TIỄN:\nMở diễn đàn trao đổi: Kính mời Thầy Cô nhận xét và các bạn đặt câu hỏi thảo luận về các vấn đề nhận thức luận và chân lý.\n\n✦ LUẬN ĐIỂM CỐT LÕI:\nTổng thời gian toàn bài: đúng 49-50 phút như phân bổ giáo án.\n\n✦ CHUYỂN Ý SANG SLIDE TIẾP THEO:\nXin chân thành cảm ơn và chúc các bạn đạt kết quả cao nhất trong kỳ thi học phần!"
+    }
+  }
+]

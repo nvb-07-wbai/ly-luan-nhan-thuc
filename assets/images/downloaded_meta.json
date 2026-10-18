@@ -1,0 +1,65 @@
+[
+  {
+    "filename": "friedrich_engels.jpg",
+    "desc": "Chân dung Friedrich Engels",
+    "role": "Đồng sáng lập CN Mác, luận giải về thực tiễn & vai trò ý thức",
+    "artist": "Unknown",
+    "license": "Public domain",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Engels_friedrich_old.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3AEngels%20friedrich%20old.jpg"
+  },
+  {
+    "filename": "immanuel_kant.jpg",
+    "desc": "Chân dung Immanuel Kant",
+    "role": "Đại biểu Thuyết không thể biết (Bất khả tri luận) & Vật tự nó",
+    "artist": "<div class=\"fn value\">\n<b>Johann Gottlieb Becker</b> (1720-1782)</div>",
+    "license": "Public domain",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Immanuel_Kant_-_Gemaelde_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3AImmanuel%20Kant%20-%20Gemaelde%201.jpg"
+  },
+  {
+    "filename": "hegel.jpg",
+    "desc": "Chân dung G.W.F. Hegel",
+    "role": "Đại biểu Chủ nghĩa duy tâm khách quan & Phép biện chứng",
+    "artist": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+    "license": "Public domain",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Georg_Wilhelm_Friedrich_Hegel00.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3AGeorg%20Wilhelm%20Friedrich%20Hegel00.jpg"
+  },
+  {
+    "filename": "ludwig_feuerbach.jpg",
+    "desc": "Chân dung Ludwig Feuerbach",
+    "role": "Đại biểu Chủ nghĩa duy vật siêu hình trước Mác",
+    "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:August_Weger\" class=\"extiw\" title=\"w:en:August Weger\"><span title=\"German engraver (1823–1892)\">August Weger</span></a></bdi>",
+    "license": "Public domain",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Feuerbach_Ludwig.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3AFeuerbach%20Ludwig.jpg"
+  },
+  {
+    "filename": "historic_library.jpg",
+    "desc": "Thư viện cổ Long Room Trinity College Dublin",
+    "role": "Nền điện ảnh không gian nghiên cứu & tri thức hàn lâm",
+    "artist": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Diliff\" title=\"User:Diliff\">Diliff</a>",
+    "license": "CC BY-SA 4.0",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Long_Room_Interior%2C_Trinity_College_Dublin%2C_Ireland_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3ALong%20Room%20Interior%2C%20Trinity%20College%20Dublin%2C%20Ireland%20-%20Diliff.jpg"
+  },
+  {
+    "filename": "aristotle.jpg",
+    "desc": "Tượng bán thân Aristotle",
+    "role": "Lịch sử triết học cổ đại & Nhận thức luận",
+    "artist": "<bdi>After <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/en:Lysippos\" title=\"w:en:Lysippos\" class=\"extiw\"><span title=\"4th-century BC Greek sculptor\">Lysippos</span></a></bdi>",
+    "license": "Public domain",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3AAristotle%20Altemps%20Inv8575.jpg"
+  },
+  {
+    "filename": "george_berkeley.jpg",
+    "desc": "Chân dung George Berkeley",
+    "role": "Đại biểu Chủ nghĩa duy tâm chủ quan",
+    "artist": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:John_Smibert\" class=\"extiw\" title=\"w:en:John Smibert\"><span title=\"American artist (1688-1751)\">John Smibert</span></a></bdi>",
+    "license": "Public domain",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/George_Berkeley_by_John_Smibert.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "page_url": "https://commons.wikimedia.org/wiki/File%3AGeorge%20Berkeley%20by%20John%20Smibert.jpg"
+  }
+]
