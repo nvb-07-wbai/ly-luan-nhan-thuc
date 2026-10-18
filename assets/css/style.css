@@ -865,3 +865,50 @@ html, body {
     transition-duration: 0.01ms !important;
   }
 }
+
+/* ==========================================================================
+   LỚP TINH CHỈNH GIAO DIỆN (v2) - ghi đè có chủ đích, không đổi nội dung/JS
+   Mục tiêu: bớt thẻ bo tròn lặp lại, chữ đủ lớn khi trình chiếu, bỏ nếp gấp
+   ========================================================================== */
+:root { --radius-card: 6px; --shadow-card: 0 6px 18px rgba(44, 34, 28, 0.10); }
+
+/* Thẻ giấy: vuông vức hơn, có vạch vàng trên đầu thay cho viền bo tròn */
+.ivory-card, .dark-card {
+  border-radius: 6px;
+  border-top: 3px solid var(--color-gold);
+  backdrop-filter: none;
+}
+.ivory-card { background: rgba(255, 253, 249, 0.96); }
+
+/* Bỏ nếp gấp góc, dùng vạch đỏ bên trái để phân nhóm */
+.curled-note { border-radius: 4px; border-left: 4px solid var(--color-crimson); }
+.curled-note::after { display: none; }
+
+/* Chữ lớn hơn cho phòng học lớn */
+.bullet-item { font-size: 24px; line-height: 1.5; padding-left: 32px; }
+.bullet-item::before { font-size: 16px; top: 6px; }
+.bullet-list { gap: 20px; }
+.takeaway-banner { font-size: 21px; padding: 16px 26px; border-radius: 2px; }
+.polaroid-caption { font-size: 15px; }
+
+/* Các cỡ chữ inline quá nhỏ trong thẻ (15px/16px/17px/18px) được nâng lên */
+.slide-body [style*="font-size: 15px"] { font-size: 20px !important; line-height: 1.5 !important; }
+.slide-body [style*="font-size: 16px"] { font-size: 20px !important; }
+.slide-body [style*="font-size: 17px"] { font-size: 21px !important; }
+.slide-body [style*="font-size: 18px"] { font-size: 22px !important; }
+
+/* Dấu sai thay cho emoji */
+.x-mark { display: inline-block; font-weight: 800; margin-right: 4px; }
+
+@media (prefers-reduced-motion: reduce) {
+  .slide, .slide * { animation: none !important; transition-duration: 0.01ms !important; }
+}
+
+/* Chữ phụ quá nhỏ (12-14px) nâng lên mức đọc được từ cuối lớp */
+.slide-body [style*="font-size: 12px"],
+.slide-body [style*="font-size: 13px"],
+.slide-body [style*="font-size: 14px"] { font-size: 19px !important; line-height: 1.5 !important; }
+
+/* Danh sách ý chính căn giữa theo chiều dọc để bớt khoảng trống chết */
+.ivory-card > .bullet-list, .dark-card > .bullet-list { flex: 1; justify-content: center; }
+.ivory-card:has(> .bullet-list), .dark-card:has(> .bullet-list) { display: flex; flex-direction: column; }
