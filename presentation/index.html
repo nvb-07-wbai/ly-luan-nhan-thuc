@@ -2173,52 +2173,28 @@
 
       <div class="slide-body" style="padding: 10px 0;">
         <div class="ivory-card" style="width: 100%; height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 24px;">
-          <!-- Master Mindmap Graphic -->
-          <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; width: 100%; max-width: 1300px;">
-            <!-- Cột 1 -->
-            <div style="border: 2px solid var(--color-crimson); border-radius: 12px; padding: 18px; background: rgba(139, 21, 36, 0.04);">
-              <h4 style="color: var(--color-crimson); font-family: var(--font-subtitle); font-size: 18px; margin-bottom: 8px;">1. BẢN CHẤT</h4>
-              <p style="font-size: 14px; line-height: 1.5; color: var(--color-text-main);">
-                • Phản ánh tích cực, sáng tạo<br>
-                • Khách thể ⇄ Chủ thể<br>
-                • 3 Nguyên tắc V.I. Lênin<br>
-                • Kinh nghiệm vs. Lý luận
-              </p>
+          <!-- Sơ đồ tư duy tổng thể: nút trung tâm nối 4 nhánh -->
+          <div style="position:relative;width:100%;max-width:1500px;flex:1;min-height:0;display:grid;grid-template-columns:1fr 280px 1fr;grid-template-rows:1fr 1fr;">
+            <svg aria-hidden="true" viewBox="0 0 100 100" preserveAspectRatio="none" style="position:absolute;inset:0;width:100%;height:100%;z-index:0;"><line x1="50" y1="50" x2="38" y2="27" stroke="#8B1524" stroke-width="4" stroke-linecap="round" vector-effect="non-scaling-stroke" opacity=".75"/><line x1="50" y1="50" x2="62" y2="27" stroke="#D4AF37" stroke-width="4" stroke-linecap="round" vector-effect="non-scaling-stroke" opacity=".75"/><line x1="50" y1="50" x2="62" y2="73" stroke="#1E88E5" stroke-width="4" stroke-linecap="round" vector-effect="non-scaling-stroke" opacity=".75"/><line x1="50" y1="50" x2="38" y2="73" stroke="#2E7D32" stroke-width="4" stroke-linecap="round" vector-effect="non-scaling-stroke" opacity=".75"/></svg>
+            <div style="grid-column:1;grid-row:1;position:relative;z-index:1;align-self:center;margin:0 18px;border:2px solid #8B1524;border-radius:10px;padding:16px 20px;background:linear-gradient(#8B152414,#8B152414),#FFFDF9;">
+              <h4 style="display:flex;align-items:center;gap:12px;color:#8B1524;font-family:var(--font-subtitle);font-size:20px;margin-bottom:8px;"><span data-nofit style="flex:none;width:34px;height:34px;border-radius:50%;background:#8B1524;color:#fff;display:flex;align-items:center;justify-content:center;font-size:18px;">1</span>BẢN CHẤT</h4>
+              <ul style="list-style:none;padding:0;font-size:16px;line-height:1.45;color:var(--color-text-main);"><li style="margin-bottom:4px;">Phản ánh tích cực, sáng tạo</li><li style="margin-bottom:4px;">Khách thể ⇄ Chủ thể</li><li style="margin-bottom:4px;">3 Nguyên tắc V.I. Lênin</li><li style="margin-bottom:4px;">Kinh nghiệm vs. Lý luận</li></ul>
+            </div><div style="grid-column:3;grid-row:1;position:relative;z-index:1;align-self:center;margin:0 18px;border:2px solid #D4AF37;border-radius:10px;padding:16px 20px;background:linear-gradient(#D4AF3714,#D4AF3714),#FFFDF9;">
+              <h4 style="display:flex;align-items:center;gap:12px;color:#9A7B1C;font-family:var(--font-subtitle);font-size:20px;margin-bottom:8px;"><span data-nofit style="flex:none;width:34px;height:34px;border-radius:50%;background:#D4AF37;color:#fff;display:flex;align-items:center;justify-content:center;font-size:18px;">2</span>THỰC TIỄN</h4>
+              <ul style="list-style:none;padding:0;font-size:16px;line-height:1.45;color:var(--color-text-main);"><li style="margin-bottom:4px;">Hoạt động vật chất cảm tính</li><li style="margin-bottom:4px;">3 Hình thức: Sản xuất, Chính trị, Thực nghiệm</li><li style="margin-bottom:4px;">4 Vai trò: Cơ sở, Động lực, Mục đích, Tiêu chuẩn chân lý</li></ul>
+            </div><div style="grid-column:3;grid-row:2;position:relative;z-index:1;align-self:center;margin:0 18px;border:2px solid #1E88E5;border-radius:10px;padding:16px 20px;background:linear-gradient(#1E88E514,#1E88E514),#FFFDF9;">
+              <h4 style="display:flex;align-items:center;gap:12px;color:#1565C0;font-family:var(--font-subtitle);font-size:20px;margin-bottom:8px;"><span data-nofit style="flex:none;width:34px;height:34px;border-radius:50%;background:#1E88E5;color:#fff;display:flex;align-items:center;justify-content:center;font-size:18px;">3</span>CON ĐƯỜNG</h4>
+              <ul style="list-style:none;padding:0;font-size:16px;line-height:1.45;color:var(--color-text-main);"><li style="margin-bottom:4px;">Cảm tính: Cảm giác, Tri giác, Biểu tượng</li><li style="margin-bottom:4px;">Lý tính: Khái niệm, Phán đoán, Suy lý</li><li style="margin-bottom:4px;">Vòng xoắn ốc vô tận</li></ul>
+            </div><div style="grid-column:1;grid-row:2;position:relative;z-index:1;align-self:center;margin:0 18px;border:2px solid #2E7D32;border-radius:10px;padding:16px 20px;background:linear-gradient(#2E7D3214,#2E7D3214),#FFFDF9;">
+              <h4 style="display:flex;align-items:center;gap:12px;color:#2E7D32;font-family:var(--font-subtitle);font-size:20px;margin-bottom:8px;"><span data-nofit style="flex:none;width:34px;height:34px;border-radius:50%;background:#2E7D32;color:#fff;display:flex;align-items:center;justify-content:center;font-size:18px;">4</span>CHÂN LÝ</h4>
+              <ul style="list-style:none;padding:0;font-size:16px;line-height:1.45;color:var(--color-text-main);"><li style="margin-bottom:4px;">Phù hợp hiện thực khách quan</li><li style="margin-bottom:4px;">Tính khách quan</li><li style="margin-bottom:4px;">Tính tương đối &amp; tuyệt đối</li><li style="margin-bottom:4px;">Tính cụ thể</li></ul>
             </div>
-
-            <!-- Cột 2 -->
-            <div style="border: 2px solid var(--color-gold); border-radius: 12px; padding: 18px; background: rgba(212, 175, 55, 0.06);">
-              <h4 style="color: var(--color-gold-dark); font-family: var(--font-subtitle); font-size: 18px; margin-bottom: 8px;">2. THỰC TIỄN</h4>
-              <p style="font-size: 14px; line-height: 1.5; color: var(--color-text-main);">
-                • Hoạt động vật chất cảm tính<br>
-                • 3 Hình thức: Sản xuất, Chính trị, Thực nghiệm<br>
-                • 4 Vai trò: Cơ sở, Động lực, Mục đích, Tiêu chuẩn chân lý
-              </p>
-            </div>
-
-            <!-- Cột 3 -->
-            <div style="border: 2px solid #1E88E5; border-radius: 12px; padding: 18px; background: rgba(30, 136, 229, 0.05);">
-              <h4 style="color: #1565C0; font-family: var(--font-subtitle); font-size: 18px; margin-bottom: 8px;">3. CON ĐƯỜNG</h4>
-              <p style="font-size: 14px; line-height: 1.5; color: var(--color-text-main);">
-                • Cảm tính: Cảm giác, Tri giác, Biểu tượng<br>
-                • Lý tính: Khái niệm, Phán đoán, Suy lý<br>
-                • Vòng xoắn ốc vô tận
-              </p>
-            </div>
-
-            <!-- Cột 4 -->
-            <div style="border: 2px solid #2E7D32; border-radius: 12px; padding: 18px; background: rgba(46, 125, 50, 0.05);">
-              <h4 style="color: #2E7D32; font-family: var(--font-subtitle); font-size: 18px; margin-bottom: 8px;">4. CHÂN LÝ</h4>
-              <p style="font-size: 14px; line-height: 1.5; color: var(--color-text-main);">
-                • Phù hợp hiện thực khách quan<br>
-                • Tính khách quan<br>
-                • Tính tương đối & tuyệt đối<br>
-                • Tính cụ thể
-              </p>
+            <div data-nofit style="grid-column:2;grid-row:1/3;z-index:2;align-self:center;justify-self:center;width:250px;height:250px;border-radius:50%;background:radial-gradient(circle at 35% 30%,#B3243A,#6E0F1C);border:5px solid var(--color-gold);box-shadow:0 14px 34px -10px rgba(60,10,16,.6);display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;color:#fff;">
+              <div style="font-family:var(--font-title);font-size:34px;line-height:1.1;letter-spacing:1px;">LÝ LUẬN<br>NHẬN THỨC</div>
+              <div style="font-family:var(--font-subtitle);font-size:15px;color:var(--color-gold-bright);margin-top:8px;letter-spacing:1px;">MÁC – LÊNIN</div>
             </div>
           </div>
-
-          <div class="takeaway-banner" style="margin-top: 24px; text-align: center; width: 100%;">
+          <div class="takeaway-banner" style="margin-top: 20px; text-align: center; width: 100%;">
             SỰ THỐNG NHẤT HỮU CƠ: THỰC TIỄN LÀ GỐC ➔ TƯ DUY LÀ ĐÒN BẨY ➔ CHÂN LÝ LÀ ĐÍCH ĐẾN
           </div>
         </div>
