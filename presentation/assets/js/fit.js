@@ -14,7 +14,7 @@
     const bottom = () => { const r = slide.getBoundingClientRect(); return r.bottom - 64 * (r.height / slide.offsetHeight); }; // mốc cố định: đáy vùng an toàn (body là flex item nên tự giãn)
     const _unused = null;          // cả vật thể xoay/tràn hình học (polaroid, chú thích)
     const refB = new Map(all.map(e => [e, Math.max(0, e.getBoundingClientRect().bottom - bottom())]));
-    const bad = () => { const B = bottom(); return all.some(e => (e.clientHeight > 0 && (e.scrollHeight - e.clientHeight) > (ref.get(e) || 0) + 1) || (e.getBoundingClientRect().height > 0 && e.getBoundingClientRect().bottom - B > (refB.get(e) || 0) + 1)); };
+    const bad = () => { const B = bottom(); return all.some(e => (e.clientHeight > 0 && (e.scrollHeight - e.clientHeight) > (ref.get(e) || 0) + 4) || (e.getBoundingClientRect().height > 0 && e.getBoundingClientRect().bottom - B > (refB.get(e) || 0) + 1)); };
     let lo = 1, hi = MAX;
     apply(hi); if (!bad()) { slide.dataset.fit = hi; return; }
     for (let i = 0; i < 9; i++) { const m = (lo + hi) / 2; apply(m); bad() ? (hi = m) : (lo = m); }
