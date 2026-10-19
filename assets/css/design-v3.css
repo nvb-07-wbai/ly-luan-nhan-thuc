@@ -63,3 +63,10 @@ body.idle{cursor:none}
 #slide-1 .slide-main-title,#slide-46 .slide-main-title{color:#fff;font-size:104px!important;letter-spacing:6px;line-height:1.1;text-shadow:0 4px 28px rgba(0,0,0,.55)}
 #slide-1 .header-section-badge,#slide-46 .header-section-badge{color:var(--color-gold-bright);font-size:18px}
 #slide-1 .ribbon-swash-topright,#slide-1 .ribbon-swash-bottomright,#slide-46 .ribbon-swash-topright,#slide-46 .ribbon-swash-bottomright{opacity:.25}
+
+/* Chuỗi giai đoạn nối tiếp (slide 26: cảm tính; 29: lý tính): mũi tên tiến trình giữa các thẻ */
+#slide-26 .slide-body,#slide-29 .slide-body{gap:64px!important}
+#slide-26 .slide-body>.ivory-card,#slide-29 .slide-body>.ivory-card{position:relative}
+#slide-26 .slide-body>.ivory-card:not(:last-child)::after,#slide-29 .slide-body>.ivory-card:not(:last-child)::after{
+  content:'➔';position:absolute;top:50%;right:-52px;width:40px;transform:translateY(-50%);
+  text-align:center;font-size:40px;line-height:1;color:var(--color-gold)}
