@@ -323,6 +323,9 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   // 9. THANH ĐIỀU KHIỂN TỰ ẨN + MỞ ĐÚNG SLIDE THEO #HASH
+  // Giải mã sẵn mọi ảnh khi rảnh để lúc chuyển slide không bị khựng
+  document.querySelectorAll('.slide img').forEach(i => { i.decoding = 'async'; });
+  (window.requestIdleCallback || ((f) => setTimeout(f, 400)))(() => document.querySelectorAll('.slide img').forEach(i => i.decode && i.decode().catch(() => {})));
   let idleTimer;
   const wake = () => { document.body.classList.remove('idle'); clearTimeout(idleTimer); idleTimer = setTimeout(() => document.body.classList.add('idle'), 2500); };
   ['mousemove', 'mousedown', 'touchstart', 'keydown'].forEach(ev => document.addEventListener(ev, wake, { passive: true }));

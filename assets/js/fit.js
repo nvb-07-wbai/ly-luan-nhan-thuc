@@ -33,7 +33,12 @@
     }
     slide.dataset.fit = groups.map(g => g.k.toFixed(2)).join('/');
   }
-  const run = () => document.querySelectorAll('.slide').forEach(fit);
+  const root = document.documentElement;
+  const run = () => {
+    root.classList.remove('fit-done');                                  // slide ẩn phải được dựng lại mới đo được
+    document.querySelectorAll('.slide').forEach(fit);
+    requestAnimationFrame(() => root.classList.add('fit-done'));        // đo xong: ngừng dựng slide không hiển thị
+  };
   document.addEventListener('DOMContentLoaded', () => { run(); (document.fonts ? document.fonts.ready : Promise.resolve()).then(run); });
   window.addEventListener('load', run);
 })();

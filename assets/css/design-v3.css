@@ -1,5 +1,5 @@
 /* DESIGN-V3: lớp nâng cấp nạp sau style.css. Chỉnh theo class dùng chung nên áp dụng cho cả 46 slide. */
-:root{--ease-morph:cubic-bezier(.65,0,.25,1);--t-morph:.85s}
+:root{--ease-morph:cubic-bezier(.65,0,.25,1);--t-morph:.7s}
 
 /* Header gọn hơn, chữ đủ lớn khi chiếu */
 .header-section-badge{font-size:16px;letter-spacing:3px;margin-bottom:2px}
@@ -20,7 +20,7 @@
 
 /* Chuyển slide: View Transitions (Morph có kiểm soát) */
 html.vt .slide{transition:none}
-::view-transition-group(root){animation-duration:.7s;animation-timing-function:var(--ease-morph)}
+::view-transition-group(root){animation-duration:.55s;animation-timing-function:var(--ease-morph)}
 ::view-transition-group(*){animation-duration:var(--t-morph);animation-timing-function:var(--ease-morph)}
 ::view-transition-old(actor-pic),::view-transition-new(actor-pic){object-fit:cover;height:100%}
 ::view-transition-group(actor-pic){z-index:3}
@@ -70,3 +70,19 @@ body.idle{cursor:none}
 #slide-26 .slide-body>.ivory-card:not(:last-child)::after,#slide-29 .slide-body>.ivory-card:not(:last-child)::after{
   content:'➔';position:absolute;top:50%;right:-52px;width:40px;transform:translateY(-50%);
   text-align:center;font-size:40px;line-height:1;color:var(--color-gold)}
+
+/* Mượt hơn: slide không hiển thị không cần dựng (bật sau khi fit.js đo xong) */
+html.fit-done .slide:not(.active){content-visibility:hidden}
+
+/* Thành phần có chữ đổi nội dung: chữ cũ mờ nhanh, chữ mới hiện sau một nhịp (không chồng hai dòng chữ);
+   vị trí/kích thước vẫn morph liên tục. Ảnh giữ kiểu hòa trộn mặc định. */
+@keyframes vt-out{to{opacity:0}}
+@keyframes vt-in{from{opacity:0}}
+::view-transition-old(actor-badge),::view-transition-old(actor-title),::view-transition-old(actor-pill),
+::view-transition-old(actor-card),::view-transition-old(actor-takeaway){animation:vt-out .2s ease both;mix-blend-mode:normal}
+::view-transition-new(actor-badge),::view-transition-new(actor-title),::view-transition-new(actor-pill),
+::view-transition-new(actor-card),::view-transition-new(actor-takeaway){animation:vt-in .35s ease .18s both;mix-blend-mode:normal}
+/* Phần không có "thành phần morph" tương ứng (cột phụ, ảnh mới): nền cũ mờ nhanh, ảnh mới vào sau một nhịp */
+::view-transition-old(root){animation:vt-out .25s ease both;mix-blend-mode:normal}
+::view-transition-new(root){animation:vt-in .35s ease both;mix-blend-mode:normal}
+::view-transition-new(actor-pic){animation:vt-in .35s ease .2s both}
