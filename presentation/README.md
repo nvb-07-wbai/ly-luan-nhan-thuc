@@ -51,7 +51,7 @@ Hệ thống được thiết kế tối ưu cho giảng viên và diễn giả 
 ### 3.2. Bảng ghi chú thuyết trình thông minh (Speaker Notes Panel)
 - Nhấn phím `N` hoặc bấm nút **"✎ Ghi chú"** ở thanh điều khiển bên dưới.
 - Mỗi slide đều được tích hợp đầy đủ 5 trường thông tin:
-  1. **Thời gian dự kiến:** Tính toán chính xác thời lượng từng slide để kiểm soát tổng bài nói 45–50 phút.
+  1. **Thời gian dự kiến:** Thời lượng gợi ý cho từng slide. Lưu ý: tổng các mốc này hiện khoảng 67 phút (đã gồm 2 trò chơi), dài hơn mục tiêu 45–50 phút ghi ở bìa; cần lược bớt khi trình bày hoặc điều chỉnh các mốc.
   2. **Giảng giải nội dung cốt lõi:** Lời giảng chuyên sâu bám sát từng trang trong giáo trình (từ trang 231 đến 256).
   3. **Ví dụ thực tế cần nêu:** Các ví dụ sinh động trong đời sống, khoa học tự nhiên và công nghệ hiện đại.
   4. **Luận điểm cần nhấn mạnh:** Những câu chốt then chốt để sinh viên ghi nhớ thi học phần.
@@ -76,7 +76,7 @@ Cả hai trò chơi đều hoạt động bằng JavaScript tương tác thời 
 - **Mục tiêu:** Kiểm tra và đánh giá chuẩn đầu ra toàn bộ 5 phần bài giảng (nhận thức cảm tính, quy nạp, vai trò thực tiễn, tính cụ thể của chân lý và ứng dụng AI).
 - **Cách chơi:** Gồm 5 câu hỏi tình huống nâng cao.
 - **Bảng vinh danh:** Kết thúc 5 câu, hệ thống hiển thị tổng điểm và phong danh hiệu học thuật:
-  * *100 điểm:* **Bậc Thầy Lý Luận Nhận Thức Mác - Lênin**
+  * *100 điểm:* **Bậc Thầy Lý Luận Nhận Thức Mác – Lênin**
   * *60–80 điểm:* **Nhà Biện Chứng Xuất Sắc**
   * *Dưới 60 điểm:* **Cần trau dồi thêm giữa lý luận và thực tiễn**
 - Có nút **"Chơi lại thử thách ↺"** để lớp ôn tập lại khi cần.
@@ -90,12 +90,17 @@ presentation/
 ├── index.html                  # Tệp giao diện chính gồm toàn bộ 46 slide hoàn chỉnh
 ├── assets/
 │   ├── css/
-│   │   └── style.css           # Toàn bộ quy tắc phong cách Red & Ivory, bố cục, hiệu ứng
+│   │   ├── style.css           # Quy tắc phong cách Red & Ivory, bố cục, hiệu ứng (bản gốc)
+│   │   ├── design-v3.css       # Lớp nâng cấp nạp sau style.css: thẻ, chuyển cảnh Morph, game, bìa/kết
+│   │   └── fonts.css           # Khai báo font tự lưu (Oswald, Montserrat, Merriweather)
+│   ├── fonts/                  # Tệp .woff2 (OFL) có tiếng Việt, chạy được khi không có mạng
 │   ├── js/
-│   │   ├── app.js              # Bộ điều khiển trình chiếu, phím tắt, ghi chú, co giãn 16:9
+│   │   ├── app.js              # Điều khiển trình chiếu, phím tắt, ghi chú, co giãn 16:9, chuyển cảnh Morph
+│   │   ├── fit.js              # Tự phóng cỡ chữ từng cột lớn nhất có thể mà không tràn
 │   │   ├── audio.js            # Bộ tổng hợp âm thanh Web Audio API độc lập
 │   │   └── games.js            # Logic xử lý chấm điểm và tình huống cho 2 trò chơi
 │   └── images/                 # Kho ảnh lịch sử, tư liệu chân thực và đồ họa cắt lớp
+│       ├── web/                # Bản đã nén cho trình chiếu (ảnh gốc giữ nguyên ở thư mục cha)
 │       ├── cutouts/            # Tranh cắt nhân vật Lênin, Mác-Ăngghen, cờ và huân chương
 │       └── *.jpg               # Chân dung Mác, Ăngghen, Lênin, Kant, Hegel, Aristotle...
 ├── README.md                   # Hướng dẫn sử dụng chi tiết (tệp này)
@@ -108,3 +113,13 @@ presentation/
 
 - **Giáo trình tham chiếu:** Ban Tuyên giáo Trung ương – Bộ Giáo dục và Đào tạo, *Giáo trình Triết học Mác – Lênin* (Hệ không chuyên), NXB Chính trị quốc gia Sự thật, Hà Nội.
 - **Thiết kế & Lập trình:** Thực hiện theo yêu cầu học thuật cao cấp và nghiên cứu mỹ thuật lịch sử phương Đông kết hợp công nghệ web hiện đại.
+
+---
+
+## 7. THAY ĐỔI PHIÊN BẢN V3
+
+- **Chuyển cảnh Morph** bằng View Transitions API (tiêu đề, ảnh, thẻ giữ liên tục giữa hai slide). Trình duyệt không hỗ trợ sẽ dùng hiệu ứng mờ dần; bật `prefers-reduced-motion` sẽ tắt chuyển động.
+- **Sửa lỗi phím Space** (trước đây không chạy) và lỗi **nút "tiếp theo" của hai trò chơi** bị hỏng sau khi bấm "Chơi lại".
+- **Mở thẳng một slide** bằng địa chỉ có `#số`, ví dụ `index.html#32`.
+- **Font tự lưu** và **ảnh đã nén** (27,4 MB → 2,3 MB) để chạy nhanh và dùng được khi không có mạng.
+- Dựng lại bố cục các slide 15, 32, 41; thêm mũi tên tiến trình ở slide 26 và 29; thay ảnh bìa/kết thúc bằng ảnh Public Domain không watermark.
