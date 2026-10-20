@@ -71,6 +71,7 @@ class Game1Controller {
     this.currentIndex = 0;
     this.score = 0;
     this.answered = false;
+    this.finished = false;
     this.renderQuestion();
   }
 
@@ -86,7 +87,7 @@ class Game1Controller {
 
     if (!scenarioEl) return;
 
-    scenarioEl.textContent = `Tình huống ${this.currentIndex + 1}/${Game1Data.length}: "${q.scenario}"`;
+    scenarioEl.textContent = `Tình huống ${this.currentIndex + 1}/${Game1Data.length}: “${q.scenario}”`;
     progressEl.textContent = `Câu ${this.currentIndex + 1} / ${Game1Data.length}`;
     scoreEl.textContent = `Điểm: ${this.score * 20} / 100`;
 
@@ -148,6 +149,7 @@ class Game1Controller {
   }
 
   next() {
+    if (this.finished) { this.init(); return; }
     if (this.currentIndex < Game1Data.length - 1) {
       this.currentIndex++;
       this.renderQuestion();
@@ -178,7 +180,7 @@ class Game1Controller {
     feedbackEl.style.display = 'none';
     nextBtn.textContent = 'Chơi lại từ đầu ↺';
     nextBtn.style.display = 'inline-block';
-    nextBtn.onclick = () => this.init();
+    this.finished = true; // nút "Chơi lại" dùng chung onclick=next(); next() sẽ khởi động lại khi finished
   }
 }
 
@@ -249,6 +251,7 @@ class Game2Controller {
     this.currentIndex = 0;
     this.score = 0;
     this.answered = false;
+    this.finished = false;
     this.renderQuestion();
   }
 
@@ -326,6 +329,7 @@ class Game2Controller {
   }
 
   next() {
+    if (this.finished) { this.init(); return; }
     if (this.currentIndex < Game2Data.length - 1) {
       this.currentIndex++;
       this.renderQuestion();
@@ -341,9 +345,10 @@ class Game2Controller {
     const feedbackEl = document.getElementById('game2-feedback');
     const nextBtn = document.getElementById('game2-next-btn');
 
-    let rankTitle = "Nhà Biện Chứng Xuất Sắc";
-    if (this.score === 5) rankTitle = "Bậc Thầy Lý Luận Nhận Thức Mác - Lênin";
-    else if (this.score >= 3) rankTitle = "Nhà Nghiên Cứu Triết Học Triển Vọng";
+    // Danh hiệu khớp với slide 43 và README: 100 điểm / 60–80 điểm / dưới 60 điểm
+    let rankTitle;
+    if (this.score === 5) rankTitle = "Bậc Thầy Lý Luận Nhận Thức Mác – Lênin";
+    else if (this.score >= 3) rankTitle = "Nhà Biện Chứng Xuất Sắc";
     else rankTitle = "Cần Trau Dồi Thêm Thực Tiễn & Lý Luận";
 
     qEl.textContent = 'VINH DANH KẾT QUẢ: GIẢI MÃ HÀNH TRÌNH NHẬN THỨC';
@@ -365,7 +370,7 @@ class Game2Controller {
     feedbackEl.style.display = 'none';
     nextBtn.textContent = 'Chơi lại thử thách ↺';
     nextBtn.style.display = 'inline-block';
-    nextBtn.onclick = () => this.init();
+    this.finished = true; // nút "Chơi lại" dùng chung onclick=next(); next() sẽ khởi động lại khi finished
   }
 }
 
