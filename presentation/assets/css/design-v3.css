@@ -20,19 +20,18 @@
 
 /* Chuyển slide: View Transitions (Morph có kiểm soát) */
 html.vt .slide{transition:none}
-::view-transition-group(root){animation-duration:.55s;animation-timing-function:var(--ease-morph)}
+::view-transition-group(root){animation-duration:.4s;animation-timing-function:var(--ease-morph)}
 ::view-transition-group(*){animation-duration:var(--t-morph);animation-timing-function:var(--ease-morph)}
 ::view-transition-old(actor-pic),::view-transition-new(actor-pic){object-fit:cover;height:100%}
 ::view-transition-group(actor-pic){z-index:3}
 ::view-transition-group(actor-title){z-index:4}
-html[data-dir=back]::view-transition-group(actor-card){animation-duration:.7s}
 
 /* Hiện nội dung theo nhịp (bên trong chuyển cảnh) */
-@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
-.slide.active .bullet-item,.slide.active .takeaway-banner{animation:rise .6s var(--ease-morph) both}
-.slide.active .bullet-item:nth-child(1){animation-delay:.25s}.slide.active .bullet-item:nth-child(2){animation-delay:.36s}
-.slide.active .bullet-item:nth-child(3){animation-delay:.47s}.slide.active .bullet-item:nth-child(4){animation-delay:.58s}
-.slide.active .bullet-item:nth-child(n+5){animation-delay:.69s}.slide.active .takeaway-banner{animation-delay:.8s}
+@keyframes rise{from{transform:translateY(12px)}to{transform:none}}
+.slide.active .bullet-item,.slide.active .takeaway-banner{animation:rise .5s var(--ease-morph) backwards}
+.slide.active .bullet-item:nth-child(1){animation-delay:.04s}.slide.active .bullet-item:nth-child(2){animation-delay:.08s}
+.slide.active .bullet-item:nth-child(3){animation-delay:.12s}.slide.active .bullet-item:nth-child(4){animation-delay:.16s}
+.slide.active .bullet-item:nth-child(n+5){animation-delay:.20s}.slide.active .takeaway-banner{animation-delay:.24s}
 
 /* Tiến độ + thanh điều khiển tự ẩn khi trình chiếu */
 #progress-bar-container{height:5px}
@@ -74,15 +73,8 @@ body.idle{cursor:none}
 /* Mượt hơn: slide không hiển thị không cần dựng (bật sau khi fit.js đo xong) */
 html.fit-done .slide:not(.active){content-visibility:hidden}
 
-/* Thành phần có chữ đổi nội dung: chữ cũ mờ nhanh, chữ mới hiện sau một nhịp (không chồng hai dòng chữ);
-   vị trí/kích thước vẫn morph liên tục. Ảnh giữ kiểu hòa trộn mặc định. */
-@keyframes vt-out{to{opacity:0}}
-@keyframes vt-in{from{opacity:0}}
-::view-transition-old(actor-badge),::view-transition-old(actor-title),::view-transition-old(actor-pill),
-::view-transition-old(actor-card),::view-transition-old(actor-takeaway){animation:vt-out .2s ease both;mix-blend-mode:normal}
-::view-transition-new(actor-badge),::view-transition-new(actor-title),::view-transition-new(actor-pill),
-::view-transition-new(actor-card),::view-transition-new(actor-takeaway){animation:vt-in .35s ease .18s both;mix-blend-mode:normal}
-/* Phần không có "thành phần morph" tương ứng (cột phụ, ảnh mới): nền cũ mờ nhanh, ảnh mới vào sau một nhịp */
-::view-transition-old(root){animation:vt-out .25s ease both;mix-blend-mode:normal}
-::view-transition-new(root){animation:vt-in .35s ease both;mix-blend-mode:normal}
-::view-transition-new(actor-pic){animation:vt-in .35s ease .2s both}
+/* Hòa trộn mặc định của trình duyệt (plus-lighter) không làm tụt độ sáng giữa hai slide.
+   Chữ đổi nội dung hòa trộn nhanh hơn phần còn lại để giảm thời gian hai dòng chữ chồng nhau. */
+::view-transition-old(actor-badge),::view-transition-new(actor-badge),
+::view-transition-old(actor-title),::view-transition-new(actor-title),
+::view-transition-old(actor-pill),::view-transition-new(actor-pill){animation-duration:.3s}

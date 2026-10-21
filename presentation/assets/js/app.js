@@ -40,8 +40,8 @@ document.addEventListener('DOMContentLoaded', () => {
   if (canMorph()) document.documentElement.classList.add('vt');
   const ACTORS = {
     badge: '.header-section-badge', title: '.slide-main-title', star: '.title-star-motif',
-    pill: '.slide-subtitle-pill', pic: '.slide-body img', card: '.slide-body .ivory-card, .slide-body .dark-card',
-    takeaway: '.takeaway-banner'
+    pill: '.slide-subtitle-pill', pic: '.slide-body img'
+    // Không morph thẻ nội dung/banner: nội dung hai slide khác hẳn nên chỉ làm chữ bị phóng to và đè lên nhau
   };
   function tagActors(slide) {
     Object.entries(ACTORS).forEach(([k, sel]) => {
