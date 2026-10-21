@@ -33,10 +33,10 @@ Hệ thống được thiết kế tối ưu cho giảng viên và diễn giả 
 | `→` / `Space` / `Page Down` / `↓` | **Chuyển sang slide tiếp theo** | Chuyển cảnh mượt mà, phát âm thanh lướt slide nhẹ |
 | `←` / `Page Up` / `↑` | **Quay lại slide trước đó** | |
 | `Home` | **Về slide bìa (Slide 1)** | |
-| `End` | **Đến slide kết thúc (Slide 46)** | |
+| `End` | **Đến slide kết thúc (Slide 45)** | |
 | `F` / `f` | **Bật / Tắt chế độ Toàn màn hình** | Phóng to tỉ lệ 16:9 chuẩn rạp chiếu |
 | `N` / `n` | **Mở / Đóng Ghi chú người thuyết trình** | Hiển thị bảng Speaker Notes bên phải màn hình |
-| `M` / `m` | **Mở / Đóng Danh mục tổng quan (Overview)** | Hiển thị lưới 46 slide để nhảy nhanh đến slide bất kỳ |
+| `M` / `m` | **Mở / Đóng Danh mục tổng quan (Overview)** | Hiển thị lưới 45 slide để nhảy nhanh đến slide bất kỳ |
 | `Esc` | **Đóng cửa sổ tổng quan hoặc bảng ghi chú** | |
 | `S` / `s` | **Bật / Tắt hiệu ứng âm thanh** | Điều khiển bật/tắt bộ tổng hợp âm Web Audio API |
 
@@ -59,7 +59,7 @@ Hệ thống được thiết kế tối ưu cho giảng viên và diễn giả 
 
 ### 3.3. Thanh tiến độ và Bộ đếm Slide thời gian thực
 - Dải thanh tiến độ màu đỏ son và vàng kim chạy theo tỷ lệ hoàn thành ở chân màn hình.
-- Bộ đếm hiển thị rõ ràng số thứ tự hiện tại, ví dụ: `Slide 18 / 46`.
+- Bộ đếm hiển thị rõ ràng số thứ tự hiện tại, ví dụ: `Slide 18 / 45`.
 
 ---
 
@@ -72,7 +72,7 @@ Cả hai trò chơi đều hoạt động bằng JavaScript tương tác thời 
 - **Cách chơi:** Gồm 5 tình huống thực tế. Giảng viên gọi sinh viên phát biểu lựa chọn phương án A, B, C hoặc D trên màn hình.
 - **Phản hồi:** Hệ thống lập tức chấm điểm (20 điểm/câu), phát âm thanh phản hồi và mở hộp thoại giải thích căn cứ theo giáo trình trang 241–244.
 
-### Trò chơi 2 (Cuối giờ): *"Giải mã hành trình nhận thức"* (Slide 44)
+### Trò chơi 2 (Cuối giờ): *"Giải mã hành trình nhận thức"* (Slide 43)
 - **Mục tiêu:** Kiểm tra và đánh giá chuẩn đầu ra toàn bộ 5 phần bài giảng (nhận thức cảm tính, quy nạp, vai trò thực tiễn, tính cụ thể của chân lý và ứng dụng AI).
 - **Cách chơi:** Gồm 5 câu hỏi tình huống nâng cao.
 - **Bảng vinh danh:** Kết thúc 5 câu, hệ thống hiển thị tổng điểm và phong danh hiệu học thuật:
@@ -87,7 +87,7 @@ Cả hai trò chơi đều hoạt động bằng JavaScript tương tác thời 
 
 ```text
 presentation/
-├── index.html                  # Tệp giao diện chính gồm toàn bộ 46 slide hoàn chỉnh
+├── index.html                  # Tệp giao diện chính gồm toàn bộ 45 slide hoàn chỉnh
 ├── assets/
 │   ├── css/
 │   │   ├── style.css           # Quy tắc phong cách Red & Ivory, bố cục, hiệu ứng (bản gốc)

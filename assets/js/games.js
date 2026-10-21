@@ -345,7 +345,7 @@ class Game2Controller {
     const feedbackEl = document.getElementById('game2-feedback');
     const nextBtn = document.getElementById('game2-next-btn');
 
-    // Danh hiệu khớp với slide 43 và README: 100 điểm / 60–80 điểm / dưới 60 điểm
+    // Danh hiệu khớp với slide giới thiệu trò chơi cuối giờ (slide 42) và README: 100 điểm / 60–80 điểm / dưới 60 điểm
     let rankTitle;
     if (this.score === 5) rankTitle = "Bậc Thầy Lý Luận Nhận Thức Mác – Lênin";
     else if (this.score >= 3) rankTitle = "Nhà Biện Chứng Xuất Sắc";
